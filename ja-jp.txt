@@ -32,7 +32,6 @@ language: 日本語
   "LRS Status Window" = "ライブレンダリング状態ウィンドウ"
 
 "Project" = "プロジェクト"
-  "" = ""
     "Create a New Track" = "新規トラックを作成"
     "Create a New Instrumental Track" = "新規伴奏トラックを作成"
     "Delete the Current Track" = "現在のトラックを削除"
@@ -57,7 +56,6 @@ language: 日本語
   "Vibrato Envelope" = "ビブラートエンベロープ"
   "Voicing" = "有声/無声音"
   "cents" = "セント"
-  "" = "" 
 
 "Note Properties" = "音符プロパティ"
   "Navigation" = "移動"
@@ -81,7 +79,6 @@ language: 日本語
     "Default" = "デフォルト"
 
 "Voice" = "歌声"
-  "" = ""
     "Current database (track)" = "現在の歌声データベース(トラック)"
     "Database _ is not installed." = "_ はインストールされていません。"
     "Load/Save Presets..." = "プリセットの保存/読み込み..."
@@ -107,22 +104,19 @@ language: 日本語
     "pitch" = "音高"
 
 "Dictionary" = "辞書"
-  "" = ""
     "Current Dictionary" = "現在の辞書"
     "(use program defaults)" = "デフォルトを使用"
     "New..." = "新規..."
     "Remove" = "削除"
-  "" = ""
+    
     "Word" = "言葉"
     "Pronunciation" = "発音"
     "Word" = "言葉"
     "Phonemes" = "音素"
     "Set" = "登録"
     "Remove" = "削除"
-
   
 "Render" = "レンダリング"
-  "" = ""
     "Destination Folder" = "出力先フォルダ"
     "File Name" = "ファイル名"
     "untitled" = "無題"
@@ -189,19 +183,3 @@ language: 日本語
       "Project - Go to the Previous Track" = "プロジェクト - 前のトラックへ移動"
       "Project - Go to the Next Track" = "プロジェクト - 次のトラックへ移動"
     "Reset Keyboard Shortcuts" = "ショートカットを既定に戻す"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
