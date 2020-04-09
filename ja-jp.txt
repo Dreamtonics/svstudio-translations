@@ -21,13 +21,7 @@ language: 日本語
 "View" = "表示"
   "Snap to Grid" = "グリッドに揃える(クォンタイズ)"
     "Full Quarter" = "4分音符"
-    "1/2 Quarter" = "8分音符"
-    "1/4 Quarter" = "16分音符"
-    "1/6 Quarter" = "1拍6連符(1/24)"
-    "1/8 Quarter" = "32分音符"
-    "1/12 Quarter" = "1拍12連符(1/48)"
-    "1/16 Quarter" = "64分音符"
-    "1/32 Quarter" = "128分音符"
+    "1/%d Quarter" = "1拍%d連符"
     "Off" = "オフ"
   "LRS Status Window" = "ライブレンダリング状態ウィンドウ"
 
@@ -50,6 +44,7 @@ language: 日本語
 
 "Piano Roll" = "ピアノロール"
 "Add Parameter Panel" = "パラメータパネルの追加"
+"Go to group" = "グループを選択"
 
 "Parameters" = "パラメータ"
   "Pitch Deviation" = "ピッチベンド"
@@ -62,7 +57,7 @@ language: 日本語
   "cents" = "セント"
 
 "Note Properties" = "音符属性"
-  "Navigation" = "移動"
+  "Navigation" = "選択切り替え"
     "PREV" = "前へ"
     "NEXT" = "次へ"
   "Pitch Transition" = "音高推移"
@@ -107,6 +102,7 @@ language: 日本語
 "Dictionary" = "辞書"
     "Current Dictionary" = "現在の辞書"
     "(use program defaults)" = "デフォルトを使用"
+    "(no database specified)" = "辞書が選択されていません"
     "New..." = "新規..."
     "Remove" = "削除"
     
@@ -181,3 +177,15 @@ language: 日本語
       "Project - Go to the Previous Track" = "プロジェクト - 前のトラックへ移動"
       "Project - Go to the Next Track" = "プロジェクト - 次のトラックへ移動"
     "Reset Keyboard Shortcuts" = "ショートカットを既定に戻す"
+
+"License and Updates" = "ライセンスとアップデート"
+    "Installed Products" = "インストール済"
+        "Check for Updates" = "アップデートを確認"
+        "Status" = "ステータス"
+            "Activate" = "登録"
+            "Uninstall" = "アンインストール"
+            "Update" = "アップデート"
+            "Deactivate" = "登録解除"
+            "Deactivate and Uninstall" = "登録解除してアンインストール"
+
+
