@@ -52,8 +52,8 @@ language: 日本語
   "Reset Pitch Properties" = "ピッチプロパティをリセット"
   "Reset Timing Properties" = "タイミングプロパティをリセット"
   "Simplify Parameters" = "パラメータ簡素化"
-  "Score Making" = "楽譜の編集"★
-  "Snap to Grid" = "グリッドにスナップ"★
+  "Score Making" = "楽譜の編集"
+  "Snap to Grid" = "グリッドに揃える"
   "Transpose..." = "転調..."
     "Transpose" = "転調"
       "Pitch shift (semitones)" = "ピッチシフト(半音)"
@@ -66,7 +66,7 @@ language: 日本語
   "Tracks" = "トラック"
   "Current Track: Mute" = "トラックをミュート"
   "Current Track: Solo" = "トラックをソロ"
-  "Current Track: Reset Mixer" = "トラックのミキサーをリセット"★
+  "Current Track: Reset Mixer" = "トラックのミキサーをリセット"
   "Create a New Track" = "新規トラック"
   "Create a New Instrumental Track" = "新規オーディオトラック"
   "Go to Track" = "トラックへ移動"
@@ -92,12 +92,12 @@ language: 日本語
 
 "Scripts" = "スクリプト"
   "Rescan" = "再スキャン"
-  "Abort All Running Scripts" = "作動中のスクリプトを停止"★
-  "Launch Scripts" = "スクリプトを起動"
+  "Abort All Running Scripts" = "実行中の全スクリプトを停止"
+  "Launch Scripts" = "スクリプトを実行"
   
 "Misc" = "その他"
   "Show Help (Online)" = "ヘルプの表示(オンライン)"
-  "About" = "synthesizer V Studioについて"★
+  "About" = "バージョン情報"
   
 "Arrangement" = "アレンジ"
   "Delete Track" = "トラックを削除"
@@ -120,14 +120,14 @@ language: 日本語
   "Voicing" = "有声/無声音"
   "Gender" = "ジェンダー"
   "cents" = "セント"
-  "Tense" = "力強い"★
-  "Relaxed" = "優しい"★
-  "Breathy" = "囁き"★
-  "Clean" = "ハキハキ"★
-  "Voiced" = "有声音"★
-  "Unvoiced" = "無声音"★
-  "Masculine" = "男性的"
-  "Feminine" = "女性的"
+  "Tense" = "張り詰めた"
+  "Relaxed" = "ゆったり"
+  "Breathy" = "ささやき"
+  "Clean" = "ハキハキ"
+  "Voiced" = "有声音"
+  "Unvoiced" = "無声音"
+  "Masculine" = "男声"
+  "Feminine" = "女声"
 
 "Note Properties" = "音符属性"
   "Navigation" = "選択切り替え"
@@ -155,7 +155,7 @@ language: 日本語
 "Voice" = "歌声"
     "Current database (track)" = "現在の歌声データベース(トラック)"
     "Current database (group)" = "現在の歌声データベース(グループ)"
-      "(inherit track defaults)" = "(继承音轨的默认值)"★
+      "(inherit track defaults)" = "トラックのデフォルトを引き継ぐ"
       "(not set)" = "(未設定)"
     "No database loaded." = "データベースはインストールされていません"
     "Database _ is not installed." = "_ はインストールされていません。"
@@ -175,12 +175,12 @@ language: 日本語
   "Defaults - Pitch" = "デフォルト - ピッチ"
   "Defaults - Vibrato" = "デフォルト - ビブラート"
 
-"Library" = "ライブラリ"★
+"Library" = "ライブラリ"
   "Preview" = "プレビュー"
-  "_ notes (_)" = "_ ノート (_)"★
-  "In _" = "位于 _"★
+  "_ notes (_)" = "_ ノート (_)"
+  "In _" = "_ にて"
   "measure _ / pitch _" = "小節 _ / ピッチ _"
-  "(not in use)" = "(使用されていません)"★
+  "(not in use)" = "(使用されていません)"
   "Delete Instance" = "インスタンスを削除"
   "Delete Group" = "グループを削除"
 
@@ -190,7 +190,7 @@ language: 日本語
     "(use program defaults)" = "(デフォルトを使用)"
   "New..." = "新規..."
     "New Dictionary" = "新規辞書"
-    "A new dictionary will be created for \"_\" and \"_\"." = "\"_\" と \"_\" の新しい辞書を作成します。"★
+    "A new dictionary will be created for \"_\" and \"_\"." = "「_」と「_」の新しい辞書を作成します。"
     "Dictionary Name" = "辞書名"
   "Remove" = "削除"
   "Word" = "単語"
@@ -228,26 +228,26 @@ language: 日本語
 	
 "License and Updates" = "ライセンスとアップデート"
     "Installed Products" = "インストール済"
-　　"Unknown vendor" = "未知のメーカー"★
+　　"Unknown vendor" = "ベンダー不明"
     "Not activated" = "未登録"
     "Basic Edition" = "Basic版"
-    "Pro Edition" = "Pro版"★
+    "Pro Edition" = "Pro版"
     "Updating..." = "アップデート中..."
     "Installing updates..." = "インストール中..."
-    "Pending..." = "保留中..."★
+    "Pending..." = "保留中..."
     "Checking updates..." = "アップデート検査中..."
-    "Updates available" = "利用可能のアップデートが発見されました"★
-    "Check for Updates" = "アップデートの確認"★
+    "Updates available" = "利用可能なアップデートがあります"
+    "Check for Updates" = "アップデートを確認"
   "Status" = "ステータス"
-    "No product selected." = "製品が選択されていません"★
+    "No product selected." = "製品が選択されていません"
     "Vendor: _" = "メーカー: _"
     "Version number: _" = "バージョン: _"
-    "Free product." = "無料の製品です。"★
-    "Paid product (_)." = "有料の製品 (_)です。"★
+    "Free product." = "無料の製品です。"
+    "Paid product (_)." = "有料の製品 (_)です。"
     "activated" = "登録済"
     "not activated" = "未登録"
     "Data corrupted. Please reinstall or seek customer support." = "データが破損しています。もう一度インストールするか、サポートにお問い合わせください。"
-    "Updates available for version _." = "バージョン _ のアップデートが発見されました。"★
+    "Updates available for version _." = "バージョン _ のアップデートが利用可能です。"
     "This update requires the latest editor. Please update the editor first." = "このアップデートは最新版エディタが必要です。先にエディタのアップデートを行いください。"
     "Update" = "アップデート"
     "Activate" = "登録"
@@ -267,7 +267,7 @@ language: 日本語
     "Master Gain" = "マスターゲイン"
   "Editor" = "エディタ"
     "Follow playheads during playback" = "再生時に再生ポジションを追跡"
-    "Show character image (if found)" = "キャラクター画像を表示 (存在する場合のみ)"★
+    "Show character image (if found)" = "キャラクター画像を表示 (存在する場合のみ)"
     "Image Transparency" = "画像透明度"
     "Horizontal Navigation" = "水平移動"
 	  "Mouse Wheel" = "マウスホイール"
@@ -290,8 +290,8 @@ language: 日本語
       "(not mapped)" = "(未設定)"
     "Edit Keyboard Shortcuts" = "ショートカットの設定"
       "Remove Shortcut" = "ショートカットを削除"
-      "Currently assigned to:" = "現在の設定:"★
-      "Press a key combination to reassign..." = "ショートカットを入力して上書きしてください..."★
+      "Currently assigned to:" = "現在の設定:"
+      "Press a key combination to reassign..." = "ショートカットを入力して上書きしてください..."
       "Please press a key combination now..." = "ショートカットを入力してください..."
     "Reset Keyboard Shortcuts" = "ショートカットをリセット"
 
@@ -301,10 +301,10 @@ language: 日本語
 "Unnamed Track" = "新しいトラック"
 
 "Edit Time Signature" = "拍子を編集"
-  "Create a new time signature marker." = "新規の拍子記号を作成します。"★
+  "Create a new time signature marker." = "新たに拍子記号を追加。"
   "Numerator" = "分子"
   "Denominator" = "分母"
-  "Invalid Time Signature" = "无效的拍号"
+  "Invalid Time Signature" = "無効な拍子記号"
     "The numerator should be a positive integer." = "分子の値を整数に設置してください。"
     "The denominator should be 2, 4, 8, or 16." = "分母の値を2、4、8、16のいずれかに設置してください。"
 
@@ -317,7 +317,7 @@ language: 日本語
 "Import Midi" = "Midiを読み込む"
   "Track" = "トラック"
   "_ notes" = "_ ノート"
-  "Tracks to Import" = "読み込むトラック"★
+  "Tracks to Import" = "読み込むトラック"
 
 "Open Project" = "プロジェクトを開く"
   "Project file does not exist." = "プロジェクトファイルが見つかりません。"
@@ -338,27 +338,27 @@ language: 日本語
   "Discard unsaved changes?" = "保存していない変更は廃棄されますがよろしいですか？"
   "Discard" = "廃棄する"
 
-"invocation error" = "调用错误"★
-"_ arguments(s) expected, got _." = "期待 _ 个参数，然而实际获得了 _ 个。"
-"failed to access a deleted '_' object (argument _)." = "尝试获取一个已被删除的 '_' 对象 (参数 _)。"
-"failed to add an unmanaged '_' object (argument _)." = "尝试添加一个非托管的 '_' 对象 (参数 _)。"
-"type error ('_' expected)." = "类型错误 (期待 '_' 类型)。"
-"out-of-bound access (index = _, size = _)." = "访问超出范围 (索引为 _， 大小为 _)。"
-"'NoteGroup' object expected." = "期待 'NoteGroup' 对象"。
-"unknown object type '_'." = "未知的对象类型 '_'。"
-"encountered an object of unsupported type." = "遇到了一个未支持类型的对象。"
-"duration must be positive." = "长度必须为正数。"
-"the pitch must be in the range [0, 127]." = "音高必须在 [0, 127] 的范围内。"
-"invalid input type." = "无效的输入类型。"
-"NoteGroupReference target can't be reset." = "不得重置 NoteGroupReference 的目标。"
-"the added NoteGroupReference has no target NoteGroup." = "添加的 NoteGroupReference 缺少目标 NoteGroup。"
-"the added track contains a NoteGroupReference with no target NoteGroup." = "添加的音轨包含一个缺少目标 NoteGroup 的 NoteGroupReference。"
-"the added track contains a NoteGroupReference pointing to a NoteGroup that does not belong to this project." = "添加的音轨包含一个 NoteGroupReference，其目标指向一个不属于本项目的 NoteGroup。"
-"the main group cannot be selected." = "不得选择主音符组。"
-"can't select a note outside of the current scope." = "无法选择当前范围以外的音符。"
-"Calling a method without the object." = "调用参数但没有提供对象。"
-"A function is expected." = "期待一个函数。"
-"Garbage collection failed." = "垃圾回收失败。"
+"invocation error" = "呼び出しエラー"
+"_ arguments(s) expected, got _." = "_ 個の引数が要求されるところ、_ 個しか受け取りませんでした。"
+"failed to access a deleted '_' object (argument _)." = "削除済みのオブジェクト '_' にアクセスできませんでした (引数 _)。"
+"failed to add an unmanaged '_' object (argument _)." = "アンマネージドなオブジェクト '_' を追加できませんでした (引数 _)。"
+"type error ('_' expected)." = "型エラー ('_' 型が要求されます)。"
+"out-of-bound access (index = _, size = _)." = "領域外の参照 (インデックス _， サイズ _)。"
+"'NoteGroup' object expected." = "'NoteGroup' オブジェクトが要求されます"。
+"unknown object type '_'." = "オブジェクト '_' を解決できませんでした。"
+"encountered an object of unsupported type." = "未対応な型のオブジェクトがあります。"
+"duration must be positive." = "長さは正の数を設定してください。"
+"the pitch must be in the range [0, 127]." = "ピッチは [0, 127] の範囲内に設定してください。"
+"invalid input type." = "入力の型が無効です。"
+"NoteGroupReference target can't be reset." = "NoteGroupReference 対象の再設定はできません。"
+"the added NoteGroupReference has no target NoteGroup." = "追加された NoteGroupReference には NoteGroup 対象がありません。"
+"the added track contains a NoteGroupReference with no target NoteGroup." = "追加されたトラックには NoteGroup 対象のない NoteGroupReference があります。"
+"the added track contains a NoteGroupReference pointing to a NoteGroup that does not belong to this project." = "追加されたトラックには NoteGroup 対象がプロジェクト内にない NoteGroupReference があります。"
+"the main group cannot be selected." = "メイングループは選択できません。"
+"can't select a note outside of the current scope." = "スコープ外の音符は選択できません。"
+"Calling a method without the object." = "メソッド呼び出しには対象オブジェクトが必要です。"
+"A function is expected." = "関数が要求されます"
+"Garbage collection failed." = "ガベージコレクションに失敗しました。"
 
 "Load Script" = "スクリプトを読み込む"
   "Script '_' failed to load because it requires the latest Synthesizer V Studio to run." = "スクリプト '_' の読み込みに失敗しました。最新版の Synthesizer V Studio が必要です。"
@@ -366,7 +366,7 @@ language: 日本語
 "Scripting Error" = "スクリプトエラー"
   "An error occurred in script '_':" = "スクリプト '_' にエラーが発生しました："
   "To troubleshoot, you may contact the script author, _." = "このエラーを解決するには、このスクリプトの作者に連絡してください： _。"
-  "In function '_', line _," = "在函数 '_'， 第 _ 行，"
+  "In function '_', line _," = "'_' 関数の第 '_' 行にて、"
 
 "Activate " = "アクティベーション "
   "Activation" = "アクティベーション"
@@ -380,7 +380,7 @@ language: 日本語
 "Invalid activation code." = "無効なアクティベーションコードです。"
 "Please check your internet connection." = "インターネットの接続状態を確認してください。"
 "This activation code is being used on another device." = "このアクティベーションコードはすでに別のデバイスに使用されています。"
-"This product has been registered already." = "この製品はすでにアクティベートされています。"★
+"This product has been registered already." = "この製品はすでにアクティベートされています。"
 "This activation code is for another product." = "このアクティベーションコードは別の製品に対応しています。"
 "Other error. Please report this incident to Dreamtonics." = "予期せぬエラーが発生しました。Dreamtonicsサポートまで問い合わせしてください。"
 
@@ -391,7 +391,7 @@ language: 日本語
 "Voice Installer" = "ボイスインストーラー"
   "Previous" = "前へ"
   "Next" = "次へ"
-  "Package content is missing." = "パッケージの内容が見つかりません。"★
+  "Package content is missing." = "パッケージのコンテンツが見つかりません。"
   "Verifying data integrity..." = "データの完全性を確認しています..."
   "Data corruption detected." = "データが破損しています。"
   "Checking installation environment..." = "インストール環境をチェックしています..."
@@ -399,7 +399,7 @@ language: 日本語
   "Failed to overwrite the existing product." = "既存ファイルの上書きに失敗しました。"
   "Copying files..." = "ファイルをコピーしています..."
   "Failed to create the voice directory." = "ボイスフォルダの作成に失敗しました。"
-  "Press next to continue if you agree with the following terms." = "上記利用規約の内容を同意してから、次へお進みください。"★
+  "Press next to continue if you agree with the following terms." = "上記利用規約に同意の上、次へお進みください。"
   "Choose the destination for voice data." = "ボイスデータのインストール先を選択してください。"
   "Choose installation destination." = "インストール先を選択してください。"
   "The destination needs to be a valid directory." = "有効なフォルダを指定する必要があります。"
@@ -431,16 +431,16 @@ language: 日本語
 "Failed to write file." = "ファイルの書き込みに失敗しました。"
 "Failed to locate the project sequence." = "プロジェクトシーケンスが見つかりませんでした。。"
 "Failed to parse the content." = "内容の解析に失敗しました。"
-"Expected '_' to be an array." = "期待 '_' 为一个数组。"★
-"Missing property '_'." = "缺少属性 '_'。"★
-"Invalid target group ID." = "无效的目标 ID。"★
-"Expected Array on property '_', got: _" = "期待属性 '_' 为一个数组，然而获得了： _"★
+"Expected '_' to be an array." = "'_' は配列であることが要求されます。"
+"Missing property '_'." = "'_' プロパティが見つかりません。"
+"Invalid target group ID." = "対象グループ IDが無効です。"
+"Expected Array on property '_', got: _" = "'_' プロパティに配列が要求されるところ、_ を受け取りました。"
 "This project is created with a newer version of Synthesizer V Studio." = "このプロジェクトはより新しいバージョンのSynthesizer V Studioで作成されています。"
 "Please check for updates." = "アップデートをチェックしてください。"
-"Note group '_' is not found in the library." = "无法在库中找到音符组 '_'。"★
+"Note group '_' is not found in the library." = "ライブラリ内に音符グループ '_' がありませんでした。"
 "Instrumental" = "オーディオファイル"
-"Invalid Automation type." = "无效的参数类型。"★
-"Automation point array has odd points." = "控制点数组长度为奇数。"★
-"Property '_' is not an array (_)." = "属性 '_' 不是一个数组 (_)。"★
-"Expected _ object on property '_', got: _" = "期待属性 '_' 为一个 _ 对象，然而获得了： _"★
-"Expected _ object, got: _" = "期待 _ 对象，然而获得了： _"★
+"Invalid Automation type." = "無効なパラメータタイプ"
+"Automation point array has odd points." = "パラメータ制御点配列の長さが奇数です。"
+"Property '_' is not an array (_)." = "'_' プロパティは配列ではありません (_)。"
+"Expected _ object on property '_', got: _" = "_ オブジェクトが '_' プロパティに要求されるところ、_ を受け取りました。"
+"Expected _ object, got: _" = "_ オブジェクトが要求されるところ、_ を受け取りました。"
