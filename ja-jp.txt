@@ -61,6 +61,7 @@ language: 日本語
   "Reset Timing Properties" = "タイミングプロパティをリセット"
   "Simplify Parameters" = "パラメータ簡素化"
   "Create Anchor Points" = "アンカー点を追加"
+  "Auto Pitch Tuning" = "ピッチ自動調整"
   "Score Making" = "楽譜の編集"
   "Snap to Grid" = "グリッドに揃える"
   "Transpose..." = "転調..."
@@ -169,9 +170,11 @@ language: 日本語
       "(not set)" = "(未設定)"
     "No database loaded." = "データベースが読み込まれていません"
     "Database _ is not installed." = "_ はインストールされていません。"
-    "Database _ (version _)" = "データベース _ (バージョン _)"
+    "_ (version _)" = "_ (バージョン _)"
     "Language: _" = "言語: _"
     "Phoneme format: _" = "発音記号体系: _"
+    "Expression groups: _" = "表現グループ： _"
+    "Natural Singing Extension" = "自然歌唱エクステンション"
     "Load/Save Presets..." = "プリセットの読み込み/保存..."
       "Load" = "読み込み"
       "Save (overwrite)" = "上書き保存"
@@ -316,6 +319,9 @@ language: 日本語
 "Cancel" = "キャンセル"	
 
 "Unnamed Track" = "無名トラック"
+
+"The current voice database does not support Auto Pitch Tuning." = "現在の歌声データベースでは自動ピッチ調整を実行できません。"
+"A voice database must be loaded to use Auto Pitch Tuning." = "自動ピッチ調整の実行には歌声データベースの読み込みが必要です。"
 
 "Edit Time Signature" = "拍子を編集"
   "Create a new time signature marker." = "新たに拍子記号を追加。"
