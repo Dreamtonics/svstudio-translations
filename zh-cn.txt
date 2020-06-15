@@ -52,6 +52,8 @@ language: 简体中文
   "Reset Pitch Properties" = "重置音高属性"
   "Reset Timing Properties" = "重置时间属性"
   "Simplify Parameters" = "简化参数"
+  "Create Anchor Points" = "创建锚点"
+  "Auto Pitch Tuning" = "自动音高调校"
   "Score Making" = "制谱"
   "Snap to Grid" = "吸附到网格"
   "Transpose..." = "变调..."
@@ -174,6 +176,7 @@ language: 简体中文
       "Reset to program defaults" = "重置为程序默认"
   "Defaults - Pitch" = "默认 - 音高"
   "Defaults - Vibrato" = "默认 - 颤音"
+    "Freq" = "频率"
 
 "Library" = "音符组库"
   "Preview" = "预览"
