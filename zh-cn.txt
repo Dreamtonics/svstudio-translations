@@ -161,9 +161,11 @@ language: 简体中文
       "(not set)" = "(未设定)"
     "No database loaded." = "没有安装声库。"
     "Database _ is not installed." = "没有安装 _。"
-    "Database _ (version _)" = "声库 _ (版本号 _)"
+    "_ (version _)" = "_ (版本号 _)"
     "Language: _" = "语言： _"
     "Phoneme format: _" = "音素制式： _"
+    "Expression groups: _" = "表现力分组： _"
+    "Natural Singing Extension" = "自然歌声扩展"
     "Load/Save Presets..." = "保存/载入预设..."
       "Load" = "载入"
       "Save (overwrite)" = "保存 (覆盖)"
@@ -302,6 +304,9 @@ language: 简体中文
 "Cancel" = "取消"
 
 "Unnamed Track" = "未命名音轨"
+
+"The current voice database does not support Auto Pitch Tuning." = "当前的歌声数据库不支持自动音高调校。"
+"A voice database must be loaded to use Auto Pitch Tuning." = "需要加载歌声数据库以启用自动音高调校功能。"
 
 "Edit Time Signature" = "编辑拍号"
   "Create a new time signature marker." = "创建一个新的拍号标记。"
