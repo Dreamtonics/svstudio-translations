@@ -351,6 +351,9 @@ language: 日本語
   "Failed to import uploaded file." = "アップロードしたファイルを読み込めませんでした。"
   "Failed to import MIDI." = "Midi の読み込みに失敗しました。"
   "Format not supported: '_'" = "ファイル形式: '_' はサポートされていません。"
+  "Create new tracks for the imported project?" = "インポートしたプロジェクトを新規トラックとして開きますか？"
+  "Create New Tracks" = "新規トラックを作成"
+  "Reopen as New Project" = "新しいプロジェクトとして作成"
 
 "Insert Lyrics" = "歌詞の入力"
   "Lyrics (separated by spaces)" = "歌詞 (スペース区切り)"

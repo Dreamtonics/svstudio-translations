@@ -336,6 +336,9 @@ language: 简体中文
   "Failed to import uploaded file." = "载入上传的文件失败。"
   "Failed to import MIDI." = "MIDI 导入失败。"
   "Format not supported: '_'" = "不支持格式： '_'"
+  "Create new tracks for the imported project?" = "是否为导入的项目创建新音轨？"
+  "Create New Tracks" = "创建新音轨"
+  "Reopen as New Project" = "作为新项目重新打开"
 
 "Insert Lyrics" = "插入歌词"
   "Lyrics (separated by spaces)" = "歌词 (按空格划分)"
