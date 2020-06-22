@@ -295,7 +295,7 @@ language: 简体中文
       "(not mapped)" = "(未分配)"
     "Edit Keyboard Shortcuts" = "编辑快捷键"
       "Remove Shortcut" = "移除快捷键"
-      "Currently assigned to:" = "当前分配到："
+      "Currently assigned to: " = "当前分配到： "
       "Press a key combination to reassign..." = "请按下快捷键组合以重新分配..."
       "Please press a key combination now..." = "请按下快捷键组合..."
     "Reset Keyboard Shortcuts" = "重置快捷键"
