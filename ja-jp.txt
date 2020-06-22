@@ -141,7 +141,7 @@ language: 日本語
   "Masculine" = "男声"
   "Feminine" = "女声"
 
-"Note Properties" = ノートプロパティ"
+"Note Properties" = "ノートプロパティ"
   "Navigation" = "選択切り替え"
     "PREV" = "前へ"
     "NEXT" = "次へ"
