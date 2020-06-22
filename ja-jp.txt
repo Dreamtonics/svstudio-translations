@@ -293,6 +293,7 @@ language: 日本語
       "Shift + Mouse Wheel" = "Shift + マウスホイール"
     "Horizontal Zooming" = "水平ズーム"
     "Vertical Navigation" = "垂直移動"
+    "2D mouse wheel for scrolling" = "二次元スクロール"
     "Note Default Lyrics" = "音符デフォルト歌詞"
   "Parameter Options" = "パラメータオプション"
     "Hide points in freehand mode" = "ピッチ手書きモードで制御点を非表示"
