@@ -90,7 +90,7 @@ language: 日本語
 	"Main Group" = "メイングループ"
 
 "Transport" = "トランスポート"
-  "Playback" = "再生"
+  "Playback" = "プレイバック"
   "Play" = "再生"
   "Pause" = "一時停止"
   "Stop" = "停止"
