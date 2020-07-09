@@ -261,6 +261,7 @@ language: 日本語
     "Version number: _" = "バージョン： _"
     "Free product." = "無料コンテンツです。"
     "Paid product (_)." = "有料コンテンツ (_)です。"
+    "Installation path: _" = "インストール先: _"
     "activated" = "アクティベート済"
     "not activated" = "未アクティベート"
     "Data corrupted. Please reinstall or seek customer support." = "データが破損しています。再インストールするか、サポートにお問い合わせください。"

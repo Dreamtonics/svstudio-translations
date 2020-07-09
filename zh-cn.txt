@@ -249,6 +249,7 @@ language: 简体中文
     "Version number: _" = "版本号： _"
     "Free product." = "免费产品。"
     "Paid product (_)." = "付费产品 (_)。"
+    "Installation path: _" = "安装路径： _"
     "activated" = "已激活"
     "not activated" = "未激活"
     "Data corrupted. Please reinstall or seek customer support." = "数据损坏。请重安装或咨询客户服务。"
