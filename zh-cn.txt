@@ -281,6 +281,7 @@ language: 简体中文
       "Shift + Mouse Wheel" = "Shift + 鼠标滚轮"
     "Horizontal Zooming" = "横向缩放"
     "Vertical Navigation" = "纵向移动"
+    "2D mouse wheel for scrolling" = "启用2D鼠标滚轮"
     "Note Default Lyrics" = "音符的默认歌词"
   "Parameter Options" = "参数选项"
     "Hide points in freehand mode" = "在自由绘制模式下隐藏控制点"
