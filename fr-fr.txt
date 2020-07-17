@@ -1,4 +1,4 @@
-language: 日本語
+language: Français
 
 "File" = "Fichier"
   "New" = "Nouveau"
