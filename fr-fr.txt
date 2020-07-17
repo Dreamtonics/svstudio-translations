@@ -67,7 +67,7 @@ language: Français
   "Transpose..." = "Transposer..."
     "Transpose" = "Transposer"
       "Pitch shift (semitones)" = "Changement de hauteur (demi-tons)"
-	"Shift Up by an Octave" = "Augmenter d'une octave"
+	"Shift Up by an Octave" = "Monter d'une octave"
   "Shift Down by an Octave" = "Descendre d'une octave"
   "Merge into Group" = "Fusionner dans un groupe"
   "Disband Group" = "Démanteler le groupe"
@@ -89,7 +89,7 @@ language: Français
     "Go to the Previous Group" = "Aller au groupe précédent"
 	"Main Group" = "groupe principal"
 
-"Transport" = "Transport"
+"Transport" = "Jouer"
   "Playback" = "Lecture"
   "Play" = "Jouer"
   "Pause" = "Mettre en pause"
@@ -109,7 +109,7 @@ language: Français
 "Misc" = "Divers"
   "Show Help (Online)" = "Consulter l'aide (en ligne)"
   "About" = "À propos"
-  "Show third party licenses." = "Afficher les licences de tiers."
+  "Show third party licenses." = "Afficher les licences tierces."
   
 "Arrangement" = "Organiser"
   "Delete Track" = "Supprimer une piste"
@@ -150,7 +150,7 @@ language: Français
     "Duration Left" = "Longueur - Gauche"
     "Duration Right" = "Longueur - Droite"
     "Depth Left" = "Profondeur - Gauche"
-    "Depth Right" = "Profondeur - Droite"	
+    "Depth Right" = "Profondeur - Droite"
   "Vibrato" = "Vibrato"
     "Start" = "Début"
     "Left" = "Gauche"
@@ -182,7 +182,7 @@ language: Français
       "Delete" = "Supprimer"
       "Save to new preset..." = "Sauvegarder vers un nouveau préset..."
       "Save to new preset" = "Sauvegarder vers un nouveau préset"
-      "Preset Name" = "Nom du présent"
+      "Preset Name" = "Nom du préset"
     "Reset" = "Réinitialiser"
       "Inherit track settings" = "Hériter des paramètres de la piste"
       "Reset to program defaults" = "Rétablir les valeurs par défaut du programme"
@@ -201,7 +201,7 @@ language: Français
 
 "Dictionary" = "Dictionnaire"
   "Current Dictionary" = "Dictionnaire actuel"
-    "(no database specified)" = "(Pas de base de voix de spécifiée)"
+    "(no database specified)" = "(Pas de voix de spécifiée)"
     "(use program defaults)" = "(Utiliser les valeurs par défaut)"
   "New..." = "Nouveau..."
     "New Dictionary" = "Nouveau dictionnaire"
@@ -247,8 +247,8 @@ language: Français
 　　"Unknown vendor" = "Vendeur inconnu"
     "Co., Ltd." = "Co., Ltd."
     "Not activated" = "non activée"
-    "Basic Edition" = "Version basique (gratuite)"
-    "Pro Edition" = "Version pro (payante)"
+    "Basic Edition" = "Version basique"
+    "Pro Edition" = "Version pro"
     "Updating..." = "Mises à jour en cours..."
     "Installing updates..." = "Installation de des mises à jour..."
     "Pending..." = "en cours..."
@@ -287,7 +287,7 @@ language: Français
     "Master Gain" = "Gain principal"
   "Editor" = "Éditeur"
     "Follow playheads during playback" = "Suivre la tête de lecture (pendant la lecture)"
-    "Show character image (if found)" = "Afficher l'image du personnage (si existant)"
+    "Show character image (if found)" = "Afficher l'image du personnage (si existante)"
     "Image Transparency" = "Transparence des images"
     "Horizontal Navigation" = "Navigation horizontale"
 	  "Mouse Wheel" = "Molette de la souris"
@@ -323,8 +323,8 @@ language: Français
 
 "Unnamed Track" = "Piste sans nom"
 
-"The current voice database does not support Auto Pitch Tuning." = "La base de donnée de voix actuel ne supporte pas le réglage automatique du pitch"
-"A voice database must be loaded to use Auto Pitch Tuning." = "Une base de donnée de voix doit être chargée pour utiliser le réglage automatique du pitch"
+"The current voice database does not support Auto Pitch Tuning." = "La voix actuel ne supporte pas le réglage automatique du pitch"
+"A voice database must be loaded to use Auto Pitch Tuning." = "Une voix doit être chargée pour utiliser le réglage automatique du pitch"
 
 "Edit Time Signature" = "Modifier les signatures temporelle"
   "Create a new time signature marker." = "Ajout d'une nouvelle signature temporelle."
@@ -393,7 +393,7 @@ language: Français
   "Script '_' failed to load because it requires the latest Synthesizer V Studio to run." = "Le script '_' n'as pas pus être chargé comme il requiert la dernière version de Synthesizer V Studio."
 
 "Scripting Error" = "Erreur de script"
-  "An error occurred in script '_':" = "Une erreur s'est produite dans le script '_' :"
+  "An error occurred in script '_':" = "Une erreur c'est produite dans le script '_' :"
   "To troubleshoot, you may contact the script author, _." = "Pour résoudre les problèmes, vous pouvez contacter l'auteur du script, _"
   "In function '_', line _," = "Dans la function '_', ligne _,"
 
@@ -414,10 +414,10 @@ language: Français
 "Other error. Please report this incident to Dreamtonics." = "Erreur inconnu. Veuillez reporter cella a Dreamtonics."
 
 "Update" = "Mises à jour"
-  "Failed to download update for _." = "Le téléchargement de la mise à jour pour _ a échouer."
-  "Failed to install update packages for _." = "L'installation de la mise a jour pour _ a échouer"
+  "Failed to download update for _." = "Le téléchargement de la mise à jour pour _ a échoué."
+  "Failed to install update packages for _." = "L'installation de la mise a jour pour _ a échoué"
 
-"Voice Installer" = "Installateur des base de données des voix."
+"Voice Installer" = "Installateur des voix."
   "Previous" = "Précédent"
   "Next" = "Suivant"
   "Package content is missing." = "Le contenue du packet est introuvable."
