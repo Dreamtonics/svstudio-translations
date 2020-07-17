@@ -320,6 +320,8 @@ language: 日本語
 
 "OK" = "確定"
 "Cancel" = "キャンセル"	
+"Yes" = "はい"
+"No" = "いいえ"
 
 "Unnamed Track" = "無名トラック"
 
