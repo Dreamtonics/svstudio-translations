@@ -67,8 +67,8 @@ language: 繁體中文
   "Transpose..." = "變調至"
     "Transpose" = "變調"
       "Pitch shift (semitones)" = "音高移動 (半音)"
-  "Shift Up by an Octave" = "升高音階"
-  "Shift Down by an Octave" = "降低音階"
+  "Shift Up by an Octave" = "升高八度"
+  "Shift Down by an Octave" = "降低八度"
   "Merge into Group" = "整合進音符組"
   "Disband Group" = "解散音符組"
 
