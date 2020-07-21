@@ -8,6 +8,7 @@ GUI translation files for Synthesizer V Studio.
 
 #### Translations Contributed by the Community
 
+* Deutsch (`de-de`)
 * Français (`fr-fr`)
 * Traditional Chinese (`zh-tw`)
 
