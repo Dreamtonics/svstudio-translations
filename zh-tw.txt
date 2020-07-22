@@ -103,6 +103,7 @@ language: 繁體中文
 
 "Scripts" = "腳本"
   "Rescan" = "重新掃描"
+  "Open Scripts Folder" = "開啟腳本資料夾"
   "Abort All Running Scripts" = "停止所有執行中的腳本"
   "Launch Scripts" = "啟動腳本"
 
