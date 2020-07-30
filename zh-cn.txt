@@ -94,6 +94,7 @@ language: 简体中文
 
 "Scripts" = "脚本"
   "Rescan" = "重新扫描"
+  "Open Scripts Folder" = "打开脚本文件夹"
   "Abort All Running Scripts" = "停止所有运行中的脚本"
   "Launch Scripts" = "启动脚本"
 
