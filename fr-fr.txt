@@ -320,6 +320,9 @@ language: Français
 
 "OK" = "OK"
 "Cancel" = "Annuler"	
+"Yes" = "Oui"
+"No" = "Non"
+
 
 "Unnamed Track" = "Piste sans nom"
 
