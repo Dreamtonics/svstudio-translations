@@ -111,7 +111,7 @@ language: Français
   "About" = "À propos"
   "Show third party licenses." = "Afficher les licences tierces."
   
-"Arrangement" = "Organiser"
+"Arrangement" = "Arrangement"
   "Delete Track" = "Supprimer une piste"
     "(No default voice)" = "(Aucune voix par défaut à été spécifiée)"
   "(No audio)" = "(Aucun son n'est spécifié)"
@@ -143,8 +143,8 @@ language: Français
 
 "Note Properties" = "Propriétés de la note"
   "Navigation" = "Navigation"
-    "PREV" = "Précédent"
-    "NEXT" = "Suivant"
+    "PREV" = "Précédente"
+    "NEXT" = "Suivante"
   "Pitch Transition" = "Transition de la tonalité"
     "Offset" = "Compensation"
     "Duration Left" = "Longueur - Gauche"
@@ -165,11 +165,11 @@ language: Français
     "Default" = "Défaut"
 
 "Voice" = "Voix"
-    "Current database (track)" = "Base de données de la voix actuel (Piste)"
-    "Current database (group)" = "Base de données de la voix actuel (Groupe)"
+    "Current database (track)" = "voix actuel (Piste)"
+    "Current database (group)" = "voix actuel (Groupe)"
       "(inherit track defaults)" = "Hériter des paramètres par défaut des pistes"
       "(not set)" = "(non défini)"
-    "No database loaded." = "Aucune base de données de voix chargée"
+    "No database loaded." = "Aucune voix chargée"
     "Database _ is not installed." = "La voix _ n'est pas installée"
     "_ (version _)" = "_ (Version _)"
     "Language: _" = "Langue： _"
@@ -224,7 +224,7 @@ language: Français
     "Abort (bouncing...)" = "Abandonner (en cours...)"
       "Failed to start bouncing." = "Le rendu a échoué."
       "Please check the destination and file name." = "Veuillez vérifier la destination et le nom du fichier."
-    "Mix Down" = "Mélanger"
+    "Mix Down" = "Pistes mixé"
     "Unselect All" = "Tout désélectionner"
   "Format" = "Format"
     "Channels" = "Canaux"
@@ -320,6 +320,9 @@ language: Français
 
 "OK" = "OK"
 "Cancel" = "Annuler"	
+"Yes" = "Oui"
+"No" = "Non"
+
 
 "Unnamed Track" = "Piste sans nom"
 
@@ -427,9 +430,9 @@ language: Français
   "Uninstalling the existing version..." = "Désinstallation de la version existante..."
   "Failed to overwrite the existing product." = "Une erreur est survenue lors de la tentative de réécriture du produit."
   "Copying files..." = "Copie des fichiers..."
-  "Failed to create the voice directory." = "Une erreur est survenue lors de la creation du dossiers des voix."
+  "Failed to create the voice directory." = "Une erreur est survenue lors de la creation du dossiers de la voix."
   "Press next to continue if you agree with the following terms." = "Appuyez sur suivant si vous acceptez ces termes."
-  "Choose the destination for voice data." = "Choisisesz la destination des données des voix."
+  "Choose the destination for voice data." = "Choisisesz la destination des données de la voix."
   "Choose installation destination." = "Choisissez la destination de l'installation."
   "The destination needs to be a valid directory." = "La destination doit être un dossier valide."
   "_ (ver. _) has been successfully installed." = "_ (ver. _) a bien été installé."
