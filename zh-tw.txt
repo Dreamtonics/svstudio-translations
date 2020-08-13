@@ -146,6 +146,7 @@ language: 繁體中文
   "Navigation" = "切換選擇"
     "PREV" = "往前"
     "NEXT" = "往後"
+  "(multiple values)" = "(多個數值)"
   "Pitch Transition" = "音高轉變"
     "Offset" = "偏移"
     "Duration Left" = "長度 - 左"
