@@ -66,7 +66,7 @@ language: 繁體中文
   "Snap to Grid" = "依照網格切齊"
   "Transpose..." = "變調至"
     "Transpose" = "變調"
-      "Pitch shift (semitones)" = "音高移動 (半音)"
+      "Pitch Shift (semitones)" = "音高移動 (半音)"
   "Shift Up by an Octave" = "升高八度"
   "Shift Down by an Octave" = "降低八度"
   "Merge into Group" = "整合進音符組"
