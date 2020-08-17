@@ -68,7 +68,7 @@ language: 日本語
   "Snap to Grid" = "グリッドに揃える"
   "Transpose..." = "トランスポーズ..."
     "Transpose" = "トランスポーズ"
-      "Pitch shift (semitones)" = "ピッチシフト (半音)"
+      "Pitch Shift (semitones)" = "ピッチシフト (半音)"
 	"Shift Up by an Octave" = "1 オクターブ上げる"
   "Shift Down by an Octave" = "1 オクターブ下げる"
   "Merge into Group" = "グループ化"

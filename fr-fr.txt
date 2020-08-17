@@ -66,7 +66,7 @@ language: Français
   "Snap to Grid" = "s'aligner sur la grille"
   "Transpose..." = "Transposer..."
     "Transpose" = "Transposer"
-      "Pitch shift (semitones)" = "Changement de hauteur (demi-tons)"
+      "Pitch Shift (semitones)" = "Changement de hauteur (demi-tons)"
 	"Shift Up by an Octave" = "Monter d'une octave"
   "Shift Down by an Octave" = "Descendre d'une octave"
   "Merge into Group" = "Fusionner dans un groupe"

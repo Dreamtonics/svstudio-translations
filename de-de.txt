@@ -68,7 +68,7 @@ language: Deutsch
   "Snap to Grid" = "Raster ausrichten"
   "Transpose..." = "Übertragen..."
     "Transpose" = "Übertragen"
-      "Pitch shift (semitones)" = "Tonhöhe bearbeiten (Halbtöne)"
+      "Pitch Shift (semitones)" = "Tonhöhe bearbeiten (Halbtöne)"
 "Shift Up by an Octave" = "Eine Oktave heben"
   "Shift Down by an Octave" = "Eine Oktave senken"
   "Merge into Group" = "Zu einer Gruppe zusammenfassen"

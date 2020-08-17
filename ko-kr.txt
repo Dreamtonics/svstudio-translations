@@ -66,7 +66,7 @@ language: 한국어
   "Snap to Grid" = "그리드에 맞춤"
   "Transpose..." = "변경..."
     "Transpose" = "변경"
-      "Pitch shift (semitones)" = "피치 시프트 (반음)"
+      "Pitch Shift (semitones)" = "피치 시프트 (반음)"
 	"Shift Up by an Octave" = "1옥타브 올리기"
   "Shift Down by an Octave" = "1옥타브 내리기"
   "Merge into Group" = "그룹으로 묶기"
