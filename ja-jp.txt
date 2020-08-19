@@ -508,3 +508,5 @@ language: 日本語
 "MEDIUM5·Shian (Lite)" = "MEDIUM5·詩岸 (ライト)"
 "MEDIUM5·Haiyi" = "MEDIUM5·海伊"
 "MEDIUM5·Haiyi (Lite)" = "MEDIUM5·海伊 (ライト)"
+"Muxin" = "牧心"
+"Muxin (Lite)" = "牧心 (ライト)"
