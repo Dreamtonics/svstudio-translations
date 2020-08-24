@@ -4,6 +4,7 @@ language: 繁體中文
   "New" = "新建"
   "Open..." = "開啟..."
   "Open Recent..." = "最近使用的檔案..."
+    "Open Recent" = "最近使用的檔案"
   "Save..." = "保存..."
   "Save As..." = "另存為..."
   "Import..." = "匯入..."
