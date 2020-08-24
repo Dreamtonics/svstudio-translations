@@ -4,6 +4,7 @@ language: 简体中文
   "New" = "新建"
   "Open..." = "打开..."
   "Open Recent..." = "最近使用的文件..."
+    "Open Recent" = "最近使用的文件"
   "Save" = "保存"
   "Save..." = "保存..."
   "Save As..." = "另存为..."
