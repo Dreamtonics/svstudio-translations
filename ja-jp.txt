@@ -4,6 +4,7 @@ language: 日本語
   "New" = "新規"
   "Open..." = "開く..."
   "Open Recent..." = "最近使用したファイル..."
+  "Open Recent" = "最近使用したファイル"
   "Save" = "保存"
   "Save..." = "保存..."
   "Save As..." = "名前を付けて保存..."

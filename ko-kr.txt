@@ -4,6 +4,7 @@ language: 한국어
   "New" = "새 파일"
   "Open..." = "열기..."
   "Open Recent..." = "최근에 사용한 파일..."
+  "Open Recent" = "최근에 사용한 파일"
   "Save..." = "저장..."
   "Save As..." = "다른 이름으로 저장..."
   "Import..." = "불러오기..."

@@ -4,6 +4,7 @@ language: Deutsch
   "New" = "Neu"
   "Open..." = "Öffnen..."
   "Open Recent..." = "Zuletzt geöffnet..."
+  "Open Recent" = "Zuletzt geöffnet"
   "Save..." = "Speichern..."
   "Save As..." = "Speichern unter..."
   "Import..." = "Importieren..."

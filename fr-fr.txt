@@ -4,6 +4,7 @@ language: Français
   "New" = "Nouveau"
   "Open..." = "Ouvrir..."
   "Open Recent..." = "Ouvrir un ficher recent..."
+  "Open Recent" = "Ouvrir un ficher recent"
   "Save..." = "Sauvegarder..."
   "Save As..." = "Sauvegarder en tant que..."
   "Import..." = "Importer..."
