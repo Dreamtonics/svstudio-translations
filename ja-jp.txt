@@ -91,6 +91,8 @@ language: 日本語
     "Go to the Next Group" = "次のグループへ移動"
     "Go to the Previous Group" = "前のグループへ移動"
 	"Main Group" = "メイングループ"
+  "Synchronize Tempo with Host" = "テンポをホストと同期"
+    "No tempo information available." = "テンポ情報がありません。"
 
 "Transport" = "トランスポート"
   "Playback" = "プレイバック"
@@ -511,3 +513,5 @@ language: 日本語
 "MEDIUM5·Haiyi (Lite)" = "MEDIUM5·海伊 (ライト)"
 "Muxin" = "牧心"
 "Muxin (Lite)" = "牧心 (ライト)"
+"Stardust Minus" = "星塵 Minus"
+"Stardust Minus (Lite)" = "星塵 Minus (ライト)"
