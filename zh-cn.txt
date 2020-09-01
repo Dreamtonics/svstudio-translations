@@ -83,6 +83,8 @@ language: 简体中文
     "Go to the Next Group" = "进入下一个组"
     "Go to the Previous Group" = "进入上一个组"
     "Main Group" = "主音符组"
+  "Synchronize Tempo with Host" = "与宿主同步节奏"
+    "No tempo information available." = "没有可用的节奏信息。"
 
 "Transport" = "播放控制"
   "Playback" = "回放"
@@ -495,3 +497,5 @@ language: 简体中文
 "MEDIUM5·Haiyi (Lite)" = "五维介质·海伊 (Lite)"
 "Muxin" = "牧心"
 "Muxin (Lite)" = "牧心 (Lite)"
+"Stardust Minus" = "星尘 Minus"
+"Stardust Minus (Lite)" = "星尘 Minus (Lite)"
