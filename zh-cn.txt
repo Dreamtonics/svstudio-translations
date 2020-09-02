@@ -318,6 +318,7 @@ language: 简体中文
 "Cancel" = "取消"
 
 "Unnamed Track" = "未命名音轨"
+"untitled" = "未命名"
 
 "The current voice database does not support Auto Pitch Tuning." = "当前的歌声数据库不支持自动音高调校。"
 "A voice database must be loaded to use Auto Pitch Tuning." = "需要加载歌声数据库以启用自动音高调校功能。"

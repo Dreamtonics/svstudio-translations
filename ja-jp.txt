@@ -334,6 +334,7 @@ language: 日本語
 "No" = "いいえ"
 
 "Unnamed Track" = "無名トラック"
+"untitled" = "無名"
 
 "The current voice database does not support Auto Pitch Tuning." = "現在の歌声データベースでは自動ピッチ調整を実行できません。"
 "A voice database must be loaded to use Auto Pitch Tuning." = "自動ピッチ調整の実行には歌声データベースの読み込みが必要です。"
