@@ -48,6 +48,7 @@ language: 简体中文
   "Render Panel" = "渲染面板"
   "License Panel" = "授权和更新面板"
   "Settings Panel" = "设置面板"
+  "LRS Status Window" = "实时渲染状态窗口"
 
 "Modify" = "修改"
   "Notes" = "音符"
@@ -83,7 +84,7 @@ language: 简体中文
   "Go to Group" = "进入音符组"
     "Go to the Next Group" = "进入下一个组"
     "Go to the Previous Group" = "进入上一个组"
-    "Main Group" = "主音符组"
+	"Main Group" = "主音符组"
   "Synchronize Tempo with Host" = "与宿主同步节奏"
     "No tempo information available." = "没有可用的节奏信息。"
 
@@ -107,10 +108,11 @@ language: 简体中文
 "Misc" = "其他"
   "Show Help (Online)" = "显示帮助 (在线)"
   "About" = "关于"
+  "Show third party licenses." = "显示第三方协议"
 
 "Arrangement" = "编曲"
   "Delete Track" = "删除音轨"
-  "(No default voice)" = "(缺少默认声库)"
+    "(No default voice)" = "(缺少默认声库)"
   "(No audio)" = "(缺少音频)"
   "Choose instrumental audio file" = "选择伴奏音频文件"
 
@@ -216,6 +218,7 @@ language: 简体中文
       "Browse..." = "浏览..."
       "Choose render destination" = "选择渲染的目标位置"
     "File Name" = "文件名"
+      "untitled" = "未命名"
     "Bounce to Files" = "导出到文件"
     "Abort (pending...)" = "中止 (等待中...)"
     "Abort (bouncing...)" = "中止 (导出中...)"
@@ -242,6 +245,7 @@ language: 简体中文
 "License and Updates" = "授权和激活"
   "Installed Products" = "已安装的产品"
     "Unknown vendor" = "未知的厂商"
+    "Co., Ltd." = "有限公司"
     "Not activated" = "未激活"
     "Basic Edition" = "基本版"
     "Pro Edition" = "专业版"
@@ -276,6 +280,7 @@ language: 简体中文
   "Audio" = "音频"
     "Audio System" = "音频系统"
     "Output Device" = "输出设备"
+      "Built-in Output" = "内置输出"
     "Buffer Size" = "缓冲区长度"
       "_ samples (_ ms)" = "_ 个采样 (_ 毫秒)"
     "Channel Layout" = "声道布局"
@@ -304,6 +309,8 @@ language: 简体中文
   "Rendering" = "渲染"
     "Background threads" = "背景线程数量"
     "Engine Sample Rate" = "引擎采样率"
+    "Block Size" = "块长度"
+      "sec" = "秒"
     "Restart Live Rendering System" = "重新启动 LRS 渲染系统"
   "Keyboard" = "键盘"
     "Shortcuts" = "快捷键"
@@ -317,6 +324,8 @@ language: 简体中文
 
 "OK" = "确定"
 "Cancel" = "取消"
+"Yes" = "是"
+"No" = "否"
 
 "Unnamed Track" = "未命名音轨"
 "untitled" = "未命名"
