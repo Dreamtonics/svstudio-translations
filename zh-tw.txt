@@ -371,7 +371,7 @@ language: 繁體中文
   "Format not supported: '_'" = "非支援格式： '_'"
   "Create new tracks for the imported project?" = "是否為匯入的專案創建新音軌？"
   "Create New Tracks" = "創建新音軌"
-  "Reopen as New Project" = "重新作為新專案"
+  "Reopen as New Project" = "作為新專案重新打開"
 
 "Insert Lyrics" = "插入歌詞"
   "Lyrics (separated by spaces)" = "歌詞 (以空格隔開)"
@@ -387,7 +387,7 @@ language: 繁體中文
 "Report generated at _." = "報告生成於 _。"
 "Built on _." = "構建於 _。"
 "Double click to copy this report." = "按兩下以複製本報告。"
-"VST is a trademark of Steinberg Media Technologies GmbH, registered in Europe and other countries." = "VST 是 Steinberg Media Technologies 公司的商標，已在歐洲和其他國家註冊。"
+"VST is a trademark of Steinberg Media Technologies GmbH, registered in Europe and other countries." = "VST 是 Steinberg Media Technologies 公司在歐洲和其他國家註冊的商標。"
 "Show third party licenses." = "關於第三方授權"
 
 "invocation error" = "調用錯誤"
