@@ -317,7 +317,7 @@ language: 繁體中文
   "Rendering" = "算繪"
     "Background threads" = "背景執行緒數量"
     "Engine Sample Rate" = "引擎採樣率"
-    "Block Size" = "塊長度"
+    "Block Size" = "區塊長度"
       "sec" = "秒"
     "Restart Live Rendering System" = "重啟 LRS 算繪系統"
   "Keyboard" = "鍵盤"
