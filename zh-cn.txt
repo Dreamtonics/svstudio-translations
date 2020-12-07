@@ -281,6 +281,7 @@ language: 简体中文
     "Audio System" = "音频系统"
     "Output Device" = "输出设备"
       "Built-in Output" = "内置输出"
+    "Sample Rate" = "采样频率"
     "Buffer Size" = "缓冲区长度"
       "_ samples (_ ms)" = "_ 个采样 (_ 毫秒)"
     "Channel Layout" = "声道布局"
