@@ -387,7 +387,7 @@ language: 简体中文
 "Report generated at _." = "报告生成于 _。"
 "Built on _." = "构建于 _。"
 "Double click to copy this report." = "双击以复制本报告。"
-"VST is a trademark of Steinberg Media Technologies GmbH, registered in Europe and other countries." = "VST 是 Steinberg Media Technologies 公司的商标，注册于欧洲和其它国家。"
+"VST is a trademark of Steinberg Media Technologies GmbH, registered in Europe and other countries." = "VST 是 Steinberg Media Technologies 公司注册于欧洲和其它国家的商标。"
 "Show third party licenses." = "显示第三方协议"
 
 "invocation error" = "调用错误"
