@@ -317,7 +317,7 @@ language: 简体中文
   "Rendering" = "渲染"
     "Background threads" = "背景线程数量"
     "Engine Sample Rate" = "引擎采样率"
-    "Block Size" = "块长度"
+    "Block Size" = "区块长度"
       "sec" = "秒"
     "Restart Live Rendering System" = "重新启动 LRS 渲染系统"
   "Keyboard" = "键盘"
