@@ -13,6 +13,7 @@ language: 简体中文
   "Export" = "导出..."
     "Export as Midi..." = "导出到Midi..."
     "Export current group as UST..." = "导出当前音符组到UST..."
+  "Download Project" = "下载项目"
 
 "Edit" = "编辑"
   "History" = "历史"
