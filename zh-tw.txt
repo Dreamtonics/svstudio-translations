@@ -288,6 +288,7 @@ language: 繁體中文
     "Audio System" = "音效系統"
     "Output Device" = "輸出設備"
       "Built-in Output" = "內置輸出"
+    "Sample Rate" = "サンプリング周波数"
     "Buffer Size" = "緩衝區長度"
       "_ samples (_ ms)" = "_ 個樣本 (_ 毫秒)"
     "Channel Layout" = "聲道佈局"
