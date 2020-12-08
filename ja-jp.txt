@@ -104,6 +104,7 @@ language: 日本語
   "Seek to the Beginning" = "曲の最初へ移動"
   "Seek to the End" = "曲の最後へ移動"
   "Seek to Measure..." = "小節へ移動..."
+      "Seek to Measure" = "小節へ移動"
       "Destination (measure number)" = "移動先 (小節)"
 
 "Scripts" = "スクリプト"
