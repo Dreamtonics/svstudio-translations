@@ -104,6 +104,7 @@ language: 繁體中文
   "Seek to the Beginning" = "跳到曲目開始"
   "Seek to the End" = "跳到曲目結尾"
   "Seek to Measure..." = "跳到指定小節...."
+    "Seek to Measure" = "跳到指定小節"
     "Destination (measure number)" = "目標 (小節號)"
 
 "Scripts" = "腳本"
