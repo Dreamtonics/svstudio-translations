@@ -125,8 +125,8 @@ language: 简体中文
   "Choose instrumental audio file" = "选择伴奏音频文件"
 
 "Piano Roll" = "钢琴卷帘"
-  "Set Tempo here" = "在这里设定节奏"
-  "Set Time Signature here" = "在这里设定节拍"
+  "Set Tempo here" = "在此处设定节奏"
+  "Set Time Signature here" = "在此处设定节拍"
   "Add Parameter Panel" = "增加参数面板"
   "Group _" = "音符组 _"
 
