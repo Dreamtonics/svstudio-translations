@@ -126,7 +126,7 @@ language: 繁體中文
 
 "Piano Roll" = "鋼琴卷軸"
   "Set Tempo here" = "設定此處節奏"
-  "Set Time Signature here" = "設定此處節拍"
+  "Set Time Signature here" = "設定此處小節"
   "Add Parameter Panel" = "追加參數面板"
   "Group _" = "音符組 _"
 
