@@ -13,6 +13,7 @@ language: 简体中文
   "Export" = "导出..."
     "Export as Midi..." = "导出到Midi..."
     "Export current group as UST..." = "导出当前音符组到UST..."
+  "Download Project" = "下载项目"
 
 "Edit" = "编辑"
   "History" = "历史"
@@ -32,7 +33,14 @@ language: 简体中文
 "View" = "视图"
   "Snapping" = "吸附"
     "Full Quarter" = "四分音符"
-    "_/_ Quarter" = "_/_ 个四分音符"
+    "1/2 Quarter" = "1/2 个四分音符 (8 分音符)"
+    "1/4 Quarter" = "1/4 个四分音符 (16 分音符)"
+    "1/6 Quarter" = "1/6 个四分音符 (8 分三连音)"
+    "1/8 Quarter" = "1/8 个四分音符 (32 分音符)"
+    "1/12 Quarter" = "1/12 个四分音符 (16 分三连音)"
+    "1/16 Quarter" = "1/16 个四分音符 (64 分音符)"
+    "1/24 Quarter" = "1/24 个四分音符 (32 分三连音)"
+    "1/32 Quarter" = "1/32 个四分音符 (128 分音符)"
     "Do Not Snap" = "关闭吸附"
   "Multi-edit Tool" = "多功能编辑工具"
   "Pencil Tool" = "铅笔工具"
@@ -101,6 +109,7 @@ language: 简体中文
   "Seek to the Beginning" = "移动到开始"
   "Seek to the End" = "移动到结尾"
   "Seek to Measure..." = "移动到指定小节..."
+    "Seek to Measure" = "移动到指定小节"
     "Destination (measure number)" = "目标 (小节号)"
 
 "Scripts" = "脚本"
@@ -125,8 +134,8 @@ language: 简体中文
     "Abort" = "中止"
 
 "Piano Roll" = "钢琴卷帘"
-  "Set Tempo here" = "在这里设定节奏"
-  "Set Time Signature here" = "在这里设定小节"
+  "Set Tempo here" = "在此处设定节奏"
+  "Set Time Signature here" = "在此处设定节拍"
   "Move loop start marker here" = "移动循环开始标记至此"
   "Move loop end marker here" = "移动循环结束标记至此"
   "Add Parameter Panel" = "增加参数面板"
@@ -346,6 +355,8 @@ language: 简体中文
 
 "OK" = "确定"
 "Cancel" = "取消"
+"Yes" = "是"
+"No" = "否"
 
 "Unnamed Track" = "未命名音轨"
 "untitled" = "未命名"

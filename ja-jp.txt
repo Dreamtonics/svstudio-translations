@@ -13,6 +13,7 @@ language: 日本語
   "Export" = "書き出し..."
     "Export as Midi..." = "Midiへ書き出し..."
     "Export current group as UST..." = "現在のグループをUSTへ書き出し..."
+  "Download Project" = "プロジェクトをダウンロード"
 
 "Edit" = "編集"
   "History" = "履歴"
@@ -109,6 +110,7 @@ language: 日本語
   "Seek to the Beginning" = "曲の最初へ移動"
   "Seek to the End" = "曲の最後へ移動"
   "Seek to Measure..." = "小節へ移動..."
+      "Seek to Measure" = "小節へ移動"
       "Destination (measure number)" = "移動先 (小節)"
 
 "Scripts" = "スクリプト"
@@ -166,6 +168,7 @@ language: 日本語
   "Navigation" = "選択切り替え"
     "PREV" = "前へ"
     "NEXT" = "次へ"
+  "(multiple values)" = "(複数数値)"
   "Pitch Transition" = "ピッチ推移"
     "Offset" = "タイミング"
     "Duration Left" = "長さ - 左"
