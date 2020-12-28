@@ -129,6 +129,7 @@ language: 简体中文
   "Choose instrumental audio file" = "选择伴奏音频文件"
     "Import Audio" = "导入音频"
     "MP3 files do not support sample-exact seeking. Convert to WAV format?" = "MP3文件不支持采样级精确定位，是否转换到WAV格式？"
+        "Keep using MP3 format." = "继续使用MP3格式"
     "Convert to WAV" = "转换到WAV"
     "Converting..." = "转换中..."
     "Abort" = "中止"
