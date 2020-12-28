@@ -131,6 +131,7 @@ language: 日本語
   "Choose instrumental audio file" = "オーディオファイルを選択してください"
    "Import Audio" = "オーディオを読み込む"
    "MP3 files do not support sample-exact seeking. Convert to WAV format?" = "MP3 では標本レベルで正確なシークができません。WAV フォーマットに変換しますか？"
+       "Keep using MP3 format." = "MP3のまま使用"
    "Convert to WAV" = "WAV に変換"
    "Converting..." = "変換中です..."
    "Abort" = "中止"
