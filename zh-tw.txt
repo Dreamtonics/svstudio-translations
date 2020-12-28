@@ -123,6 +123,12 @@ language: 繁體中文
     "(No default voice)" = "(無預設聲庫)"
   "(No audio)" = "(無音訊)"
   "Choose instrumental audio file" = "選擇伴奏音訊"
+  "Import Audio" = "导入音频"
+  "MP3 files do not support sample-exact seeking. Convert to WAV format?" = "MP3檔案不支援採樣级精確搜尋，是否轉換成WAV格式？"
+    "Keep using MP3 format." = "繼續使用MP3格式"
+  "Convert to WAV" = "轉換到WAV"
+  "Converting..." = "轉換中..."
+  "Abort" = "停止"
 
 "Piano Roll" = "鋼琴卷軸"
   "Set Tempo here" = "設定此處節奏"
@@ -383,7 +389,7 @@ language: 繁體中文
 "Report generated at _." = "報告生成於 _。"
 "Built on _." = "構建於 _。"
 "Double click to copy this report." = "按兩下以複製本報告。"
-"VST is a trademark of Steinberg Media Technologies GmbH, registered in Europe and other countries." = "VST 是 Steinberg Media Technologies 公司註冊於歐洲和其它國家的商標。"
+"VST is a trademark of Steinberg Media Technologies GmbH, registered in Europe and other countries." = "VST 是 Steinberg Media Technologies 公司的商標，註冊於歐洲和其它國家。"
 "Show third party licenses." = "關於第三方授權"
 
 "invocation error" = "調用錯誤"
