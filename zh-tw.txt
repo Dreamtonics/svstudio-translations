@@ -123,7 +123,7 @@ language: 繁體中文
     "(No default voice)" = "(無預設聲庫)"
   "(No audio)" = "(無音訊)"
   "Choose instrumental audio file" = "選擇伴奏音訊"
-  "Import Audio" = "导入音频"
+  "Import Audio" = "導入音訊"
   "MP3 files do not support sample-exact seeking. Convert to WAV format?" = "MP3檔案不支援採樣级精確搜尋，是否轉換成WAV格式？"
     "Keep using MP3 format." = "繼續使用MP3格式"
   "Convert to WAV" = "轉換到WAV"
