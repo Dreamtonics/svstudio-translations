@@ -12,6 +12,7 @@ language: 한국어
   "Export" = "내보내기..."
     "Export as Midi..." = "Midi로 내보내기..."
     "Export current group as UST..." = "현재 그룹을 UST로 내보내기..."
+  "Download Project" = "프로젝트를 다운로드하기"
 
 "Edit" = "편집"
   "History" = "편집 이력"
@@ -19,6 +20,7 @@ language: 한국어
   "Redo" = "되돌리기"
   "Selection" = "선택"
   "Select All" = "모두 선택"
+  "Select Parameters for Notes" = "노트의 파라미터를 선택하기"
   "Select All Parameters" = "파라미터를 모두 선택하기"
   "Unselect" = "선택 취소"
   "Delete Selection" = "선택 내용을 삭제"
