@@ -133,8 +133,12 @@ language: 한국어
 "Piano Roll" = "피아노 롤"
   "Set Tempo here" = "템포 설정"
   "Set Time Signature here" = "박자 설정"
+  "Move loop start marker here" = "루프 시작 마커를 이곳으로 이동"
+  "Move loop end marker here" = "루프 종료 마커를 이곳으로 이동"
   "Add Parameter Panel" = "파라미터 패널을 추가"
   "Group _" = "그룹 _"
+  "Split Note" = "노트 나누기"
+  "Split Group" = "그룹 나누기"
 
 "Parameters" = "파라미터"
   "Pitch Deviation" = "피치벤드"
