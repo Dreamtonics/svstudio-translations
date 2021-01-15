@@ -91,6 +91,8 @@ language: 한국어
     "Go to the Next Group" = "다음 그룹으로 이동"
     "Go to the Previous Group" = "이전 그룹으로 이동"
 	"Main Group" = "메인 그룹"
+  "Synchronize Tempo with Host" = "템포를 호스트와 동기화"
+    "No tempo information available." = "템포 정보가 없습니다."
 
 "Transport" = "트랜스포트ト"
   "Playback" = "처음부터 재생"
