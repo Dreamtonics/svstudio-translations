@@ -148,6 +148,7 @@ language: 한국어
   "Breathiness" = "숨소리"
   "Voicing" = "유성/무성음"
   "Gender" = "젠더"
+  "Tone Shift" = "톤 시프트"
   "cents" = "음성"
   "Tense" = "긴장"
   "Relaxed" = "느긋함"
