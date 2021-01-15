@@ -163,6 +163,7 @@ language: 한국어
   "Navigation" = "선택을 전환"
     "PREV" = "뒤로"
     "NEXT" = "다음으로"
+  "(multiple values)" = "(값 여러개)"
   "Pitch Transition" = "피치의 움직임"
     "Offset" = "오프셋"
     "Duration Left" = "길이 - 왼쪽"
@@ -179,6 +180,8 @@ language: 한국어
     "Jitter" = "지터"
   "Timing and Phonemes" = "타이밍과 음소"
     "Note Offset" = "노트 오프셋"
+    "Duration" = "길이"
+    "Strength" = "발음 세기"
   "Expression Group" = "표현 그룹"
     "Default" = "디폴트"
 
