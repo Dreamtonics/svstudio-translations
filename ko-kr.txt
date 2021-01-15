@@ -94,7 +94,7 @@ language: 한국어
   "Synchronize Tempo with Host" = "템포를 호스트와 동기화"
     "No tempo information available." = "템포 정보가 없습니다."
 
-"Transport" = "트랜스포트ト"
+"Transport" = "트랜스포트"
   "Playback" = "처음부터 재생"
   "Play" = "재생"
   "Pause" = "일시정지"
