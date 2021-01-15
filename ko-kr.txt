@@ -291,7 +291,7 @@ language: 한국어
     "Version number: _" = "버전： _"
     "Free product." = "무료 제품입니다."
     "Paid product (_)." = "유료 제품 (_)입니다."
-    "Installation path: _" = "인스톨할 곳: _"
+    "Installation path: _" = "인스톨할 경로: _"
     "activated" = "활성화 됨"
     "not activated" = "활성화되지 않음"
     "Data corrupted. Please reinstall or seek customer support." = "데이터가 파손되었습니다. 재인스톨 하거나, 고객센터에 문의해주세요."
