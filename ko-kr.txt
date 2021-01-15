@@ -266,10 +266,10 @@ language: 한국어
       "As extra files" = "숨소리를 추가 파일로"
       "As extra channels (isolated)" = "숨소리를 별개의 채널로"
       "As extra files (isolated)" = "숨소리를 별개 파일로"
-    "Bit Depth" = "비트 심도"
+    "Bit Depth" = "비트 깊이"
       "16-bit" = "16비트"
       "24-bit" = "24비트"
-      "32-bit float" = "32비트 데이터 보존"
+      "32-bit float" = "32비트 부동소수점"
     "Sample Rate" = "샘플링 주파수"
 	
 "License and Updates" = "라이센스와 업데이트"
