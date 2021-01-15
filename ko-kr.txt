@@ -99,10 +99,12 @@ language: 한국어
   "Play" = "재생"
   "Pause" = "일시정지"
   "Stop" = "중지"
+  "Loop Over Selected Notes" = "선택한 노트를 반복 재생"
   "Position" = "재생위치를 조정"
   "Seek to the Beginning" = "곡의 처음으로 이동"
   "Seek to the End" = "곡의 마지막으로 이동"
   "Seek to Measure..." = "마디로 이동..."
+      "Seek to Measure" = "마디로 이동"
       "Destination (measure number)" = "이동하는 곳 (마디)"
 
 "Scripts" = "스크립트"
