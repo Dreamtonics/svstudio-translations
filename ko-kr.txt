@@ -123,6 +123,12 @@ language: 한국어
     "(No default voice)" = "(가수가 설정되어있지 않습니다)"
   "(No audio)" = "(오디오가 설정 되어있지 않습니다)"
   "Choose instrumental audio file" = "오디오 파일을 선택해주세요"
+   "Import Audio" = "오디오 파일을 불러오기"
+   "MP3 files do not support sample-exact seeking. Convert to WAV format?" = "MP3 파일은 Sample-exact 탐색을 지원하지 않습니다. WAV 파일로 변환하시겠습니까?"
+       "Keep using MP3 format." = "MP3형식을 유지"
+   "Convert to WAV" = "WAV로 변환"
+   "Converting..." = "변환중입니다..."
+   "Abort" = "중지"
 
 "Piano Roll" = "피아노 롤"
   "Set Tempo here" = "템포 설정"
