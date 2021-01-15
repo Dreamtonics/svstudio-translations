@@ -176,7 +176,7 @@ language: 한국어
     "Depth" = "깊이"
     "Phase" = "위상"
 	"Frequency" = "파형"
-    "Jitter" = "주기"
+    "Jitter" = "지터"
   "Timing and Phonemes" = "타이밍과 음소"
     "Note Offset" = "노트 오프셋"
   "Expression Group" = "표현 그룹"
