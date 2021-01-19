@@ -538,6 +538,7 @@ language: 日本語
 "Kotonoha Akane & Aoi" = "琴葉　茜・葵"
 "Kotonoha Akane & Aoi (Lite)" = "琴葉　茜・葵 (ライト)"
 "Saki (Lite)" = "Saki (ライト)"
+"Saki AI (Lite)" = "Saki AI (ライト)"
 "AiKO" = "アイコ"
 "AiKO (Lite)" = "アイコ (ライト)"
 "Eleanor Forte" = "エレノア フォルテ"
