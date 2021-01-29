@@ -11,8 +11,8 @@ language: 简体中文
   "Import..." = "导入..."
   "Import as Tracks..." = "导入为音轨"
   "Export" = "导出..."
-    "Export as Midi..." = "导出到Midi..."
-    "Export current group as UST..." = "导出当前音符组到UST..."
+    "Export as Midi..." = "导出到 Midi..."
+    "Export current group as UST..." = "导出当前音符组到 UST..."
   "Download Project" = "下载项目"
 
 "Edit" = "编辑"
@@ -128,8 +128,8 @@ language: 简体中文
   "(No audio)" = "(缺少音频)"
   "Choose instrumental audio file" = "选择伴奏音频文件"
     "Import Audio" = "导入音频"
-    "MP3 files do not support sample-exact seeking. Convert to WAV format?" = "MP3文件不支持采样级精确定位，是否转换到WAV格式？"
-    "Convert to WAV" = "转换到WAV"
+    "MP3 files do not support sample-exact seeking. Convert to WAV format?" = "MP3 文件不支持采样级精确定位，是否转换到 WAV 格式？"
+    "Convert to WAV" = "转换到 WAV"
     "Converting..." = "转换中..."
     "Abort" = "中止"
 
