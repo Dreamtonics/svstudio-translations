@@ -517,7 +517,7 @@ language: 繁體中文
 "Missing property '_'." = "缺少屬性 '_'。"
 "Invalid target group ID." = "無效的目標 ID。"
 "Expected Array on property '_', got: _" = "期待屬性 '_' 為一個陣列，但是得到了： _"
-"This project is created with a newer version of Synthesizer V Studio." = "該專案由一個新版本的Synthesizer V Studio 制成。"
+"This project is created with a newer version of Synthesizer V Studio." = "該專案由一個新版本的 Synthesizer V Studio 制成。"
 "Please check for updates." = "請檢查更新。"
 "Note group '_' is not found in the library." = 無法在音符庫之中找到群組 '_'。"
 "Instrumental" = "伴奏"
