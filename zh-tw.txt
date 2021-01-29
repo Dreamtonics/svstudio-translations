@@ -44,7 +44,7 @@ language: 繁體中文
     "Do Not Snap" = "不使用切齊"
   "Multi-edit Tool" = "多功能編輯工具"
   "Pencil Tool" = "鉛筆工具"
-  "Line Tool (Parameters)" = "直線工具 (參數用)"
+  "Line Tool (Parameters)" = "直線工具 (參數)"
   "Direct Pitch Editing" = "直接編輯音高"
   "Show Melody from Other Tracks" = "顯示其他音軌的音符"
   "Side Panels" = "側面板"
