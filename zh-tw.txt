@@ -104,6 +104,7 @@ language: 繁體中文
   "Play" = "播放"
   "Pause" = "暫停"
   "Stop" = "停止"
+  "Loop Over Selected Notes" = "循環播放選取的音符"
   "Position" = "調整位置"
   "Seek to the Beginning" = "跳到曲目開始"
   "Seek to the End" = "跳到曲目結尾"
