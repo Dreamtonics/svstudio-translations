@@ -165,8 +165,8 @@ language: 简体中文
 
 "Note Properties" = "音符属性"
   "Navigation" = "切换当前选择"
-    "PREV" = "向前"
-    "NEXT" = "向后"
+    "PREV" = "上一个"
+    "NEXT" = "下一个"
   "(multiple values)" = "(多个数值)"
   "Pitch Transition" = "音高转变"
     "Offset" = "偏移"
