@@ -520,3 +520,5 @@ language: 繁體中文
 "Muxin (Lite)" = "牧心 (Lite)"
 "Stardust Minus" = "星塵 Minus"
 "Stardust Minus (Lite)" = "星塵 Minus (Lite)"
+"Koharu Rikka" = "小春六花"
+"Koharu Rikka AI" = "小春六花 AI"
