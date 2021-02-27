@@ -175,7 +175,7 @@ language: 繁體中文
     "Jitter" = "抖動"
   "Timing and Phonemes" = "時機與音素"
     "Note Offset" = "音符時間差"
-  "Expression Group" = "表現群組"
+  "Expression Group" = "表現分組"
     "Default" = "預設"
 
 "Voice" = "歌聲"
@@ -188,7 +188,7 @@ language: 繁體中文
     "Database _ (version _)" = "聲庫 _ (版本 _)"
     "Language: _" = "語系: _"
     "Phoneme format: _" = "音素格式: _"
-    "Expression groups: _" = "表現群組： _"
+    "Expression groups: _" = "表現分組： _"
     "Natural Singing Extension" = "自然歌聲擴展"
     "Load/Save Presets..." = "保存/載入預設..."
       "Load" = "讀取"
