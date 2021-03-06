@@ -337,7 +337,7 @@ language: 简体中文
     "Note Default Lyrics" = "音符的默认歌词"
   "Parameter Options" = "参数选项"
     "Hide points in freehand mode" = "在自由绘制模式下隐藏控制点"
-    "Auto-insert anchor points" = "自动插入固定点"
+    "Auto-insert anchor points" = "自动插入锚点"
     "Simplify freehand-drawn curves" = "自动简化自由绘制的曲线"
     "Snap points to zero" = "吸附控制点到零点位置"
   "Rendering" = "渲染"
