@@ -315,7 +315,7 @@ language: 繁體中文
     "Note Default Lyrics" = "音符默認歌詞"
   "Parameter Options" = "參數選項"
     "Hide points in freehand mode" = "在自由繪製模式下隱藏控制點"
-    "Auto-insert anchor points" = "自動插入控制點"
+    "Auto-insert anchor points" = "自動插入定錨點"
     "Simplify freehand-drawn curves" = "自動簡化自由繪製曲線"
     "Snap points to zero" = "切齊控制點到零點位置"
   "Rendering" = "算繪"
