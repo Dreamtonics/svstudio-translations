@@ -522,4 +522,6 @@ language: 繁體中文
 "Stardust Minus" = "星塵 Minus"
 "Stardust Minus (Lite)" = "星塵 Minus (Lite)"
 "Koharu Rikka" = "小春六花"
+"Koharu Rikka (Lite)" = "小春六花 (Lite)"
 "Koharu Rikka AI" = "小春六花 AI"
+"Koharu Rikka AI (Lite)" = "小春六花 AI (Lite)"
