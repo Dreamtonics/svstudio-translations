@@ -501,7 +501,6 @@ language: 繁體中文
 
 "Kotonoha Akane & Aoi" = "琴葉　茜・葵"
 "Kotonoha Akane & Aoi (Lite)" = "琴葉　茜・葵 (Lite)"
-"Saki (Lite)" = "Saki (Lite)"
 "AiKO" = "艾可"
 "AiKO (Lite)" = "艾可 (Lite)"
 "Eleanor Forte" = "愛蓮娜 芙緹"
@@ -521,4 +520,6 @@ language: 繁體中文
 "Stardust Minus" = "星塵 Minus"
 "Stardust Minus (Lite)" = "星塵 Minus (Lite)"
 "Koharu Rikka" = "小春六花"
+"Koharu Rikka (Lite)" = "小春六花 (Lite)"
 "Koharu Rikka AI" = "小春六花 AI"
+"Koharu Rikka AI (Lite)" = "小春六花 AI (Lite)"
