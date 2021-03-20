@@ -341,6 +341,7 @@ language: 繁體中文
 
 "The current voice database does not support Auto Pitch Tuning." = "當前的歌聲資料庫不支援自動音高調整。"
 "A voice database must be loaded to use Auto Pitch Tuning." = "需要載入歌聲資料庫以啟用自動音高調整功能。"
+"This feature requires a voice with second-generation Auto Pitch Tuning feature." = "此功能需要具有第 2 代自動音高調整功能的聲庫。"
 
 "Edit Time Signature" = "編輯拍號"
   "Create a new time signature marker." = "建立新的拍號標記。"
