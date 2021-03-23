@@ -372,6 +372,7 @@ language: 日本語
 
 "The current voice database does not support Auto Pitch Tuning." = "現在の歌声データベースでは自動ピッチ調整を実行できません。"
 "A voice database must be loaded to use Auto Pitch Tuning." = "自動ピッチ調整の実行には歌声データベースの読み込みが必要です。"
+"This feature requires a voice with second-generation Auto Pitch Tuning feature." = "この機能を利用するには、第 2 世代ピッチ自動調整機能を搭載した歌声データベースが必要です。"
 
 "Edit Time Signature" = "拍子を編集"
   "Create a new time signature marker." = "新たに拍子記号を追加。"
