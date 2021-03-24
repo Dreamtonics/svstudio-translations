@@ -80,6 +80,7 @@ language: 日本語
   "Shift Down by an Octave" = "1 オクターブ下げる"
   "Merge into Group" = "グループ化"
   "Disband Group" = "グループ解除"
+  "Dissociate Group" = "グループ分離"
   
 "Project" = "プロジェクト"
   "Tracks" = "トラック"
@@ -125,6 +126,7 @@ language: 日本語
   "Show third party licenses." = "第三者ライセンスについて。"
   
 "Arrangement" = "トラック"
+  "Duplicate Track" = "トラックを複製"
   "Delete Track" = "トラックを削除"
     "(No default voice)" = "(歌声が指定されていません)"
   "(No audio)" = "(オーディオが指定されていません)"
@@ -232,6 +234,8 @@ language: 日本語
   "In _" = "_ にて"
   "measure _ / pitch _" = "小節 _ / ピッチ _"
   "(not in use)" = "(使用されていません)"
+  "Disband" = "解除"
+  "Dissociate" = "分離"
   "Delete Instance" = "インスタンスを削除"
   "Delete Group" = "グループを削除"
 
