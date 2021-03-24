@@ -79,6 +79,7 @@ language: 简体中文
   "Shift Down by an Octave" = "降低八度"
   "Merge into Group" = "创建音符组"
   "Disband Group" = "解散音符组"
+  "Dissociate Group" = "分离到独立的音符组"
 
 "Project" = "项目"
   "Tracks" = "音轨"
@@ -123,6 +124,7 @@ language: 简体中文
   "About" = "关于"
 
 "Arrangement" = "编曲"
+  "Duplicate Track" = "复制到新音轨"
   "Delete Track" = "删除音轨"
   "(No default voice)" = "(缺少默认声库)"
   "(No audio)" = "(缺少音频)"
@@ -230,6 +232,8 @@ language: 简体中文
   "In _" = "位于 _"
   "measure _ / pitch _" = "小节 _ / 音高 _"
   "(not in use)" = "(未使用)"
+  "Disband" = "解散"
+  "Dissociate" = "分离"
   "Delete Instance" = "删除实例"
   "Delete Group" = "删除组"
 
