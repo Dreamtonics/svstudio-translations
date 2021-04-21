@@ -359,7 +359,7 @@ language: Español
       "Power Management" = "Administración de Energía"
       "Max Performance" = "Rendimiento Máximo""
       "Balanced" = "Balanceado"
-      "Power Save" = "Ahorra de Energía"
+      "Power Save" = "Ahorro de Energía"
     "Block Size" = "Tamaño de bloques"
       "sec" = "seg"
     "Restart Live Rendering System" = "Reiniciar el Sistema de Renderizado en Vivo"
