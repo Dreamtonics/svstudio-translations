@@ -251,7 +251,7 @@ language: Español
     "A new dictionary will be created for \"_\" and \"_\"." = "Un nuevo diccionario será creado para \"_\" y para \"_\"."
     "Dictionary Name" = "Nombre del Diccionario"
   "Remove" = "Eliminar"
-  "Word" = "Palabras"
+  "Word" = "Palabra"
   "Pronunciation" = "Pronunciación"
   "Phonemes" = "Fonemas"
   "Set" = "Definir"
