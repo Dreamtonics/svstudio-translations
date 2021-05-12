@@ -7,6 +7,8 @@ language: Español
   "Open Recent" = "Abrir Reciente"
   "Save..." = "Guardar..."
   "Save" = "Guardar"
+  "Save to External File" = "Guardad en un Archivo Externo"
+  "Save Inside Host" = "Guardar dentro del Host"
   "Save As..." = "Guardar como..."
   "Import..." = "Importar..."
   "Import as Tracks..." = "Importar como pista..."
@@ -128,6 +130,7 @@ language: Español
   "Show third party licenses." = "Mostar licencias de terceros."
   
 "Arrangement" = "Arreglo"
+  "Duplicate Track" = "Duplicar Pista"
   "Delete Track" = "Borrar Pista"
     "(No default voice)" = "(No hay voz por defecto)"
   "(No audio)" = "(Sin Audio Añadido)"
@@ -234,6 +237,8 @@ language: Español
   "In _" = "En _"
   "measure _ / pitch _" = "Puntos Asignados _ / Tono _"
   "(not in use)" = "(En desuso)"
+  "Disband" = "Disolver"
+  "Dissociate" = "Disociar"
   "Delete Instance" = "Borrar Parte"
   "Delete Group" = "Borrar Grupo"
 
@@ -246,7 +251,7 @@ language: Español
     "A new dictionary will be created for \"_\" and \"_\"." = "Un nuevo diccionario será creado para \"_\" y para \"_\"."
     "Dictionary Name" = "Nombre del Diccionario"
   "Remove" = "Eliminar"
-  "Word" = "Palabras"
+  "Word" = "Palabra"
   "Pronunciation" = "Pronunciación"
   "Phonemes" = "Fonemas"
   "Set" = "Definir"
@@ -351,6 +356,10 @@ language: Español
     "Playback Buffer Size" = "Tamaño del Búfer de Reproducción"
       "blocks" = "bloques"
     "Engine Sample Rate" = "Frecuencia de Muestreo del Motor"
+      "Power Management" = "Administración de Energía"
+      "Max Performance" = "Rendimiento Máximo""
+      "Balanced" = "Balanceado"
+      "Power Save" = "Ahorro de Energía"
     "Block Size" = "Tamaño de bloques"
       "sec" = "seg"
     "Restart Live Rendering System" = "Reiniciar el Sistema de Renderizado en Vivo"
@@ -374,6 +383,7 @@ language: Español
 
 "The current voice database does not support Auto Pitch Tuning." = "El Banco de Voz actual no admite la Afinación Automática."
 "A voice database must be loaded to use Auto Pitch Tuning." = "Se debe cargar una base de datos de voz para usar la Afinación Automática."
+"This feature requires a voice with second-generation Auto Pitch Tuning feature." = "Esta función requiere una voz con la función Afinación Automática de segunda generación."
 
 "Edit Time Signature" = "Editar Compás"
   "Create a new time signature marker." = "Crear nuevo marcador de compás."
