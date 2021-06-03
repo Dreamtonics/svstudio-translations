@@ -78,7 +78,8 @@ language: Tiếng Việt
   "Shift Down by an Octave" = "Giảm 1 quãng"
   "Merge into Group" = "Gộp notes thành nhóm"
   "Disband Group" = "Rã nhóm notes"
-  
+  "Dissociate Group" = "Tách nhóm notes"
+
 "Project" = "Dự án"
   "Tracks" = "Tracks"
   "Current Track: Mute" = "Tắt âm track hiện tại"
@@ -108,6 +109,7 @@ language: Tiếng Việt
   "Seek to the Beginning" = "Quay về nhịp đầu"
   "Seek to the End" = "Chạy đến nhịp cuối"
   "Seek to Measure..." = "Chạy đến vị trí..."
+      "Seek to Measure" = "Chạy đến vị trí"
       "Destination (measure number)" = "Vị trí lựa chọn (đơn vị)"
 
 "Scripts" = "Script"
@@ -253,7 +255,7 @@ language: Tiếng Việt
       "Browse..." = "Chọn..."
       "Choose render destination" = "Chọn nơi xuất giọng hát"
     "File Name" = "Tên tập tin"
-      "untitled" = "untitled"
+      "untitled" = "không tên"
     "Bounce to Files" = "Xuất thành nhiều tệp"
     "Abort (pending...)" = "Hủy bỏ (phần đang chờ...)"
     "Abort (bouncing...)" = "Hủy bỏ (phần đang xuất...)"
@@ -495,7 +497,7 @@ language: Tiếng Việt
   "Choose the destination for voice data." = "Chọn nơi cài đặt cho giọng hát."
   "Choose installation destination." = "Chọn thư mục cài đặt"
   "The destination needs to be a valid directory." = "Thư mục cài đặt cần phải có địa chỉ hợp lệ."
-  "_ (ver. _) has been successfully installed." = "_ (ver. _) đã được cài đặt."
+  "_ (ver. _) has been successfully installed." = "_ (p.bản _) đã được cài đặt."
   "Installation was aborted due to an error:" = "Quá trình cài đặt bị hủy bỏ vì lỗi sau："
 
 "Voice Update" = "Cập nhật giọng hát"
@@ -562,3 +564,11 @@ language: Tiếng Việt
 "Koharu Rikka (Lite)" = "Koharu Rikka (Lite)"
 "Koharu Rikka AI" = "Koharu Rikka AI"
 "Koharu Rikka AI (Lite)" = "Koharu Rikka AI (Lite)"
+"Tsurumaki Maki (JPN)" = "Tsurumaki Maki (JPN)"
+"Tsurumaki Maki (JPN Lite)" = "Tsurumaki Maki (JPN Lite)"
+"Tsurumaki Maki (ENG)" = "Tsurumaki Maki (JPN)"
+"Tsurumaki Maki (ENG Lite)" = "Tsurumaki Maki (ENG Lite)"
+"Tsurumaki Maki AI (JPN)" = "Tsurumaki Maki AI (JPN)"
+"Tsurumaki Maki AI (JPN Lite)" = "Tsurumaki Maki AI (JPN Lite)"
+"Tsurumaki Maki AI (ENG)" = "Tsurumaki Maki AI (ENG)"
+"Tsurumaki Maki AI (ENG Lite)" = "Tsurumaki Maki AI (ENG Lite)"
