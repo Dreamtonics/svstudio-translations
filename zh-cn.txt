@@ -511,7 +511,7 @@ language: 简体中文
   "An error occurred when trying to uninstall _." = "在尝试卸载 _ 时出现了错误。"
 
 "Install Package" = "安装包"
-  "This package requires the latest Synthesizer V Studio" = "本安装包需要最新的 Synthesizer V Studio。"
+  "This package requires the latest Synthesizer V Studio." = "本安装包需要最新的 Synthesizer V Studio。"
 
 "Failed to open file '_'." = "打开文件 '_' 失败。"
 "Failed to open file." = "打开文件失败。"
