@@ -448,6 +448,7 @@ language: 简体中文
 "the added track contains a NoteGroupReference pointing to a NoteGroup that does not belong to this project." = "添加的音轨包含一个 NoteGroupReference，其目标指向一个不属于本项目的 NoteGroup。"
 "the main group cannot be selected." = "不得选择主音符组。"
 "can't select a note outside of the current scope." = "无法选择当前范围以外的音符。"
+"can't set to a track outside of the current project." = "不得设定到当前项目以外的音轨。"
 "can't set to a group outside of the current project." = "不得设定到当前项目以外的音符组。"
 "Calling a method without the object." = "调用参数但没有提供对象。"
 "A function is expected." = "期待一个函数。"
