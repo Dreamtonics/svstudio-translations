@@ -509,7 +509,7 @@ language: Tiếng Việt
   "An error occurred when trying to uninstall _." = "Xảy ra lỗi khi gỡ cài đặt _."
 
 "Install Package" = "Cài đặt gói"
-  "This package requires the latest Synthesizer V Studio" = "Gói này yêu cầu Synthesizer V Studio phiên bản mới nhất"
+  "This package requires the latest Synthesizer V Studio." = "Gói này yêu cầu Synthesizer V Studio phiên bản mới nhất"
 
 "Failed to open file '_'." = "Mở tập tin '_' thất bại."
 "Failed to open file." = "Không mở được tập tin."

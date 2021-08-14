@@ -514,7 +514,7 @@ Load Script" = "Загрузка скрипта"
   "An error occurred when trying to uninstall _." = "При попытке удалить _ произошла ошибка."
 
 "Install Package" = "Установка пакета"
-  "This package requires the latest Synthesizer V Studio" = "Данный пакет требует последнюю версию Synthesizer V Studio"
+  "This package requires the latest Synthesizer V Studio." = "Данный пакет требует последнюю версию Synthesizer V Studio"
 
 "Failed to open file '_'." = "Не удалось открыть файл '_'."
 "Failed to open file." = "Не удалось открыть файл."

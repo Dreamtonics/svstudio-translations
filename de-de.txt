@@ -476,7 +476,7 @@ language: Deutsch
 
 
 "Install Package" = "Installationspaket"
-  "This package requires the latest Synthesizer V Studio" = "Dieses Paket benötigt die neuste Version von Synthesizer V Studio."
+  "This package requires the latest Synthesizer V Studio." = "Dieses Paket benötigt die neuste Version von Synthesizer V Studio."
 
 
 "Failed to open file '_'." = "Die Datei "_" konnte nicht geöffnet werden."

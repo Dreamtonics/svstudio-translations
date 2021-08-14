@@ -534,7 +534,7 @@ language: Español
   "An error occurred when trying to uninstall _." = "Un error surgió al tratar de desinstalar _."
 
 "Install Package" = "Paquete de Instalación"
-  "This package requires the latest Synthesizer V Studio" = "Este paquete requiere la última versión de Synthesizer V Studio."
+  "This package requires the latest Synthesizer V Studio." = "Este paquete requiere la última versión de Synthesizer V Studio."
 
 "Failed to open file '_'." = "No se puede abrir el archivo '_'."
 "Failed to open file." = "No se puede abrir el archivo."

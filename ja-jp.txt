@@ -519,7 +519,7 @@ language: 日本語
   "An error occurred when trying to uninstall _." = "_ のアンインストール中にエラーが発生しました。"
 
 "Install Package" = "コンテンツインストール"
-  "This package requires the latest Synthesizer V Studio" = "このコンテンツは最新の Synthesizer V Studio を必要とします。"
+  "This package requires the latest Synthesizer V Studio." = "このコンテンツは最新の Synthesizer V Studio を必要とします。"
 
 "Failed to open file '_'." = "'_' ファイルの読み込みに失敗しました。"
 "Failed to open file." = "ファイルの読み込みに失敗しました。"

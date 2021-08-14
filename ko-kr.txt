@@ -508,7 +508,7 @@ language: 한국어
   "An error occurred when trying to uninstall _." = "_ 의 언인스톨 중 오류가 발생했습니다."
 
 "Install Package" = "제품 인스톨"
-  "This package requires the latest Synthesizer V Studio" = "이 제품은 최신 Synthesizer V Studio 가 필요합니다."
+  "This package requires the latest Synthesizer V Studio." = "이 제품은 최신 Synthesizer V Studio 가 필요합니다."
 
 "Failed to open file '_'." = "'_' 파일을 불러올 수 없습니다."
 "Failed to open file." = "파일을 불러올 수 없습니다."

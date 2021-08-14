@@ -523,7 +523,7 @@ language: 繁體中文
   "An error occurred when trying to uninstall _." = "在嘗試解除安裝 _ 時出現了錯誤。"
 
 "Install Package" = "安裝檔"
-  "This package requires the latest Synthesizer V Studio" = "本安裝檔需要最新的 Synthesizer V Studio。"
+  "This package requires the latest Synthesizer V Studio." = "本安裝檔需要最新的 Synthesizer V Studio。"
 
 "Failed to open file '_'." = "無法開啟 '_'。"
 "Failed to open file." = "無法開啟檔案。"
