@@ -450,7 +450,7 @@ language: Français
   "An error occurred when trying to uninstall _." = "Une erreur est survenue lors de la tentative de désinstaller _."
 
 "Install Package" = "Installation de contenu"
-  "This package requires the latest Synthesizer V Studio" = "Ce contenu requiert la dernière version de Synthesizer V Studio."
+  "This package requires the latest Synthesizer V Studio." = "Ce contenu requiert la dernière version de Synthesizer V Studio."
 
 "Failed to open file '_'." = "Erreur lors de l'ouverture de '_'."
 "Failed to open file." = "Erreur lors de l'ouverture d'un ficher."
