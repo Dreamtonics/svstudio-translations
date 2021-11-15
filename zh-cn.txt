@@ -98,6 +98,8 @@ language: 简体中文
         "Vibrato 1" = "颤音 1"
         "Vibrato 2" = "颤音 2"
         "Overshoot" = "衔接力度"
+        "Weak" = "弱"
+        "Strong" = "强"
       "Generating pitch..." = "正在生成音高..."
     "Rerun with New Random Seed" = "以新的随机数重新生成"
   "Melody" = "旋律"

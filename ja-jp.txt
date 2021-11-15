@@ -99,6 +99,8 @@ language: 日本語
         "Vibrato 1" = "声の揺らぎ"
         "Vibrato 2" = "ビブラート"
         "Overshoot" = "しゃくり"
+        "Weak" = "弱く"
+        "Strong" = "強く"
       "Generating pitch..." = "ピッチを生成しています..."
     "Rerun with New Random Seed" = "異なるパターンでランダム調整を実行"
   "Melody" = "メロディ"
