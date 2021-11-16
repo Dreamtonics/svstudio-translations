@@ -236,7 +236,7 @@ language: 日本語
     "Natural Singing Extension" = "自然歌唱エクステンション"
     "Auto Pitch Tuning: _" = "自動ピッチ調整： _" 
       "Gen _" = "第 _ 世代"
-    "Use relaxed pronunciation" = "自然に子音発音を弱める"
+    "Use relaxed consonants" = "自然に子音発音を弱める"
     "Load/Save Presets..." = "プリセットの読み込み/保存..."
       "Load" = "読み込み"
       "Save (overwrite)" = "上書き保存"
