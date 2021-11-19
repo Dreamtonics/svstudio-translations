@@ -318,7 +318,7 @@ language: Español
     "Version number: _" = "Número de Versión: _"
     "Free product." = "Producto Gratuito."
     "Paid product (_)." = "Producto Adquirido (_)"
-    "Installation path: _" = "Chemin de l'installation: _"
+    "Installation path: _" = "Ruta de Instalación: _"
     "activated" = "activado"
     "not activated" = "no activado"
     "Data corrupted. Please reinstall or seek customer support." = "Datos corruptos. Vuelva a instalarlo o busque servicio al cliente."
