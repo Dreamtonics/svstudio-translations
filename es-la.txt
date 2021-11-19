@@ -141,11 +141,11 @@ language: Español
       "Seek to Measure" = "Transportar Puntero a Punto Asignado"
       "Destination (measure number)" = "Destino (Número de Punto Asignado)"
 
-"Scripts" = "Guiones"
+"Scripts" = "Scripts"
   "Rescan" = "Reescanear"
-  "Open Scripts Folder" = "Abrir Carpeta de Guiones"
-  "Abort All Running Scripts" = "Abortar Guiones en Uso"
-  "Launch Scripts" = "Lanzar un Guion"
+  "Open Scripts Folder" = "Abrir Carpeta de Scripts"
+  "Abort All Running Scripts" = "Abortar Scripts en Uso"
+  "Launch Scripts" = "Accionar un Script"
   
 "Misc" = "Ayuda"
   "Show Help (Online)" = "Ayuda (en línea)"
@@ -187,7 +187,7 @@ language: Español
   "cents" = "cents"
   "Tense" = "Tenso"
   "Relaxed" = "Relajado"
-  "Breathy" = "Susurrante"
+  "Breathy" = "Susurrado"
   "Clean" = "Claro"
   "Voiced" = "Audible"
   "Unvoiced" = "Inaudible"
@@ -420,7 +420,7 @@ language: Español
   "Create a new time signature marker." = "Crear nuevo marcador de compás."
   "Numerator" = "Numerador"
   "Denominator" = "Denominador"
-  "Invalid Time Signature" = "Compás No Válido"
+  "Invalid Time Signature" = "Compás Inválido"
     "The numerator should be a positive integer." = "El numerador debe ser un número entero positivo."
     "The denominator should be 2, 4, 8, or 16." = "El denominador debe ser 2, 4, 8 o 16."
 
@@ -501,12 +501,12 @@ language: Español
 "A function is expected." = "Función esperada"
 "Garbage collection failed." = "Falló limpieza."
 
-"Load Script" = "Cargar un Guion"
-  "Script '_' failed to load because it requires the latest Synthesizer V Studio to run." = "El guion '_' no se pudo cargar porque requiere que se ejecute la última versión de Synthesizer V Studio."
+"Load Script" = "Cargar un Script"
+  "Script '_' failed to load because it requires the latest Synthesizer V Studio to run." = "El script '_' no se pudo cargar porque requiere que se ejecute la última versión de Synthesizer V Studio."
 
-"Scripting Error" = "Error de Guion"
-  "An error occurred in script '_':" = "Un error ocurrió en el guion '_' :"
-  "To troubleshoot, you may contact the script author, _." = "Para solucionar problemas, puede comunicarse con el autor del guión, _"
+"Scripting Error" = "Error de Script"
+  "An error occurred in script '_':" = "Un error ocurrió en el script '_' :"
+  "To troubleshoot, you may contact the script author, _." = "Para solucionar problemas, puede comunicarse con el autor del script, _"
   "In function '_', line _," = "En la función '_', línea _,"
 
 "Activate " = "Activar "
