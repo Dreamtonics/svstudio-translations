@@ -171,8 +171,9 @@ language: 简体中文
   "Add Parameter Panel" = "增加参数面板"
   "Group _" = "音符组 _"
   "Split Note" = "分割音符"
+  "Merge Notes" = "合并音符"
   "Split Group" = "分割音符组"
-
+  
 "Parameters" = "参数"
   "Pitch Deviation" = "音高偏差"
   "Vibrato Envelope" = "颤音包络"
