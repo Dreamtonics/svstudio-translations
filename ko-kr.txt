@@ -47,7 +47,7 @@ language: 한국어
     "1/64 Quarter" = "256분음표"
     "1/128 Quarter" = "512분음표"
     "Do Not Snap" = "끄기"
-    "Adaptive Snapping" = "자동 조정"
+    "Adaptive Snapping" = "적응형스냅"
   "Multi-edit Tool" = "멀티 에딧 툴"
   "Pencil Tool" = "연필 툴"
   "Line Tool (Parameters)" = "직선 툴(파라미터)"
