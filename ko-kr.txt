@@ -590,7 +590,7 @@ language: 한국어
 "Koharu Rikka AI" = "코하루 릿카 AI"
 "Koharu Rikka AI (Lite)" = "코하루 릿카 AI (Lite)"
 "Koharu Rikka (Lite)" = "코하루 릿카 (Lite)"
-"Tsurumaki Maki AI" = "츠루마키 마키 AI (JPN)"
+"Tsurumaki Maki AI (JPN)" = "츠루마키 마키 AI (JPN)"
 "Yamine Renri" = "야미네 렌리"
 "Tsuina-Chan AI" = "츠이나 쨩 AI"
 "Tsuina-Chan AI (Lite)" = "츠이나 쨩 AI (Lite)"
