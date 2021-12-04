@@ -165,7 +165,7 @@ language: Español
    "Converting..." = "Convirtiendo..."
    "Abort" = "Cancelar"
 
-"Piano Roll" = "Rodillo de Piano"
+"Piano Roll" = "Pianola"
   "Set Tempo here" = "Establecer Tempo"
   "Set Time Signature here" = "Establecer Marcador de Tempo"
   "Move loop start marker here" = "Mover el Marcador de inicio aquí"
