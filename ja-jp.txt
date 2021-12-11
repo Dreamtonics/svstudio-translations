@@ -705,3 +705,5 @@ language: 日本語
 "Tsuina-Chan (Lite)" = "ついなちゃん (ライト)"
 "Tsuina-Chan AI" = "ついなちゃん AI"
 "Tsuina-Chan AI (Lite)" = "ついなちゃん AI (ライト)"
+"ANRI" = "杏里"
+"ANRI (Lite)" = "杏里 (Lite)"
