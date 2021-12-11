@@ -693,3 +693,5 @@ language: 简体中文
 "Tsuina-Chan (Lite)" = "追儺酱 (Lite)"
 "Tsuina-Chan AI" = "追儺酱 AI"
 "Tsuina-Chan AI (Lite)" = "追儺酱 AI (Lite)"
+"ANRI" = "铃爱莉"
+"ANRI (Lite)" = "铃爱莉 (Lite)"
