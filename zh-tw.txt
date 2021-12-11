@@ -659,3 +659,5 @@ language: 繁體中文
 "Tsurumaki Maki AI (ENG Lite)" = "弦卷真紀 AI (英語 Lite)"
 "Eleanor Forte AI" = "愛蓮娜 芙緹 AI"
 "Eleanor Forte AI (Lite)" = "愛蓮娜 芙緹 AI (Lite)"
+"ANRI" = "安里"
+"ANRI (Lite)" = "安里 (Lite)"
