@@ -12,6 +12,7 @@ GUI translation files for Synthesizer V Studio.
 * Español (`es-la`, `es-cl`)
 * Français (`fr-fr`)
 * Korean (`ko-kr`)
+* Português (`pt-br`)
 * Русский (`ru-ru`)
 * Vietnamese (`vi-vn`)
 * Traditional Chinese (`zh-tw`)
