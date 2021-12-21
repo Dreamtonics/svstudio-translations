@@ -107,6 +107,7 @@ language: 简体中文
     "Ornament Selected Notes" = "修饰选择的音符"
       "Tendency to split on the left" = "向左拆分的倾向"
       "Tendency to split on the right" = "向右拆分的倾向"
+      "Generating ornamentation..." = "正在生成修饰..."
 
 "Project" = "项目"
   "Tracks" = "音轨"
@@ -171,6 +172,7 @@ language: 简体中文
   "Add Parameter Panel" = "增加参数面板"
   "Group _" = "音符组 _"
   "Split Note" = "分割音符"
+  "Merge Notes" = "合并音符"
   "Split Group" = "分割音符组"
 
 "Parameters" = "参数"
@@ -652,8 +654,8 @@ language: 简体中文
 "Double-click to edit the time signature mark." = "双击以编辑小节标号。"
 
 "Qing Su" = "青溯"
-"Kotonoha Akane & Aoi" = "琴叶　茜・葵"
-"Kotonoha Akane & Aoi (Lite)" = "琴叶　茜・葵 (Lite)"
+"Kotonoha Akane & Aoi" = "琴叶 茜・葵"
+"Kotonoha Akane & Aoi (Lite)" = "琴叶 茜・葵 (Lite)"
 "AiKO" = "艾可"
 "AiKO (Lite)" = "艾可 (Lite)"
 "Eleanor Forte" = "爱莲娜 芙缇"
