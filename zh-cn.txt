@@ -695,5 +695,7 @@ language: 简体中文
 "Tsuina-Chan (Lite)" = "追傩酱 (Lite)"
 "Tsuina-Chan AI" = "追傩酱 AI"
 "Tsuina-Chan AI (Lite)" = "追傩酱 AI (Lite)"
+"Kyomachi Seika" = "京町精华"
+"Kyomachi Seika AI" = "京町精华 AI"
 "ANRI" = "铃爱莉"
 "ANRI (Lite)" = "铃爱莉 (Lite)"
