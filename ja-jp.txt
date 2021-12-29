@@ -706,6 +706,8 @@ language: 日本語
 "Tsuina-Chan AI" = "ついなちゃん AI"
 "Tsuina-Chan AI (Lite)" = "ついなちゃん AI (ライト)"
 "Kyomachi Seika" = "京町セイカ"
+"Kyomachi Seika (Lite)" = "京町セイカ (ライト)"
 "Kyomachi Seika AI" = "京町セイカ AI"
+"Kyomachi Seika AI (Lite)" = "京町セイカ AI (ライト)"
 "ANRI" = "杏里"
 "ANRI (Lite)" = "杏里 (ライト)"
