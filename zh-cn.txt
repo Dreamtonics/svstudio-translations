@@ -584,6 +584,8 @@ language: 简体中文
 "Project loaded: _." = "项目已加载：_"
 "Project saved to _." = "项目已保存至：_"
 
+"Click to toggle _ panel." = "单击以切换_侧面板。"
+
 "Drag to create control points." = "拖拽以创建控制点。"
 "Double click to create control points; Drag to select." = "双击以创建控制点；拖动以选择。"
 "Drag to create a note." = "拖拽以创建音符。"
@@ -645,13 +647,15 @@ language: 简体中文
 "Parameter interpolation mode: linear (straight lines)" = "参数插值模式：线性 (直线)"
 "Parameter interpolation mode: cosine (smoother)" = "参数插值模式：余弦 (更加平滑)"
 "Parameter interpolation mode: adaptive spline (smoothest)" = "参数插值模式：适应性样条 (最平滑)"
+"Parameter vertical zooming: 2X" = "参数纵向缩放：2 倍"
+"Parameter vertical zooming: 4X" = "参数纵向缩放：4 倍"
 "Swap edit/display parameters." = "交换编辑/显示参数。"
 "Click to set the parameter on the foreground to be edited." = "单击以设定前景上用于编辑的参数。"
 "Click to set the parameter on the background to be displayed." = "单击以设定背景上显示的参数。"
 
-"Current position: _._, tempo: _ BPM. Click to set the playhead; Right-click to show context menu." = "当前位置：_._，节拍：_ BPM。单击以设定播放位置；右键单击以显示菜单。"
-"Double-click to edit the tempo mark." = "双击以编辑节拍标号。"
-"Double-click to edit the time signature mark." = "双击以编辑小节标号。"
+"Current position: _._, tempo: _ BPM. Click to set the playhead; Right-click to show context menu." = "当前位置：_._，节奏：_ BPM。单击以设定播放位置；右键单击以显示菜单。"
+"Double-click to edit the tempo mark." = "双击以编辑节奏标号。"
+"Double-click to edit the time signature mark." = "双击以编辑节拍标号。"
 
 "Qing Su" = "青溯"
 "Kotonoha Akane & Aoi" = "琴叶 茜・葵"
