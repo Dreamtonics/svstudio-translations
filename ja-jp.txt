@@ -708,4 +708,4 @@ language: 日本語
 "Kyomachi Seika" = "京町セイカ"
 "Kyomachi Seika AI" = "京町セイカ AI"
 "ANRI" = "杏里"
-"ANRI (Lite)" = "杏里 (Lite)"
+"ANRI (Lite)" = "杏里 (ライト)"
