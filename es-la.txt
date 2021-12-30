@@ -67,7 +67,7 @@ language: Español
   "Notes" = "Notas"
   "Insert Lyrics..." = "Insertar Letras..."
   "Reset Phonemes" = "Reestablecer Fonemas"
-  "Reset Pitch Properties" = "Reestablecer Propiedades del Tono"
+  "Reset Pitch" = "Reestablecer Tono"
   "Reset Timing and Phonemes" = "Reestablecer Tempo y Fonemas"
   "Reset Detuned Notes" = "Reestablecer Notas Desafinadas"
   "Simplify Parameters" = "Simplificar Parámetros"
