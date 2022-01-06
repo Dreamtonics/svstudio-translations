@@ -236,7 +236,7 @@ language: 简体中文
     "Natural Singing Extension" = "自然歌声扩展"
     "Auto Pitch Tuning: _" = "自动音高调校: _"
       "Gen _" = "第_代"
-    "Use relaxed consonants" = "使用松弛的辅音发音"
+    "Use relaxed consonants" = "使用放松的辅音发音"
     "Load/Save Presets..." = "保存/载入预设..."
       "Load" = "载入"
       "Save (overwrite)" = "保存 (覆盖)"
