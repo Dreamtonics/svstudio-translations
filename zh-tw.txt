@@ -645,6 +645,8 @@ language: 繁體中文
 "MEDIUM5·Shian (Lite)" = "五維介質·詩岸 (Lite)"
 "MEDIUM5·Haiyi" = "五維介質·海伊"
 "MEDIUM5·Haiyi (Lite)" = "五維介質·海伊 (Lite)"
+"MEDIUM5·Stardust" = "五維介質·星塵"
+"MEDIUM5·Stardust (Lite)" = "五維介質·星塵 (Lite)"
 "Muxin" = "牧心"
 "Muxin (Lite)" = "牧心 (Lite)"
 "Stardust Minus" = "星塵 Minus"
