@@ -107,7 +107,7 @@ language: 简体中文
     "Ornament Selected Notes" = "修饰选择的音符"
       "Tendency to split on the left" = "向左拆分的倾向"
       "Tendency to split on the right" = "向右拆分的倾向"
-      "Generating ornamentation..." = "正在生成修饰..."
+      "Generating ornamentation..." = "正在进行修饰..."
 
 "Project" = "项目"
   "Tracks" = "音轨"
