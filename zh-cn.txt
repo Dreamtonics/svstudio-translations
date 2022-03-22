@@ -467,6 +467,7 @@ language: 简体中文
 "Show third party licenses." = "显示第三方协议"
 
 "Neural Networks Performance Tuner..." = "人工神经网络性能调整工具..."
+  "Neural Networks Performance Tuner..." = "人工神经网络性能调整工具"
   "This is a fully automated tool that tunes the Dreamtonics Neural Network Inference (DNNI) engine for maximum performance. DNNI is used to accelerate AI voice rendering. By pressing start, it will run a few benchmarks and pick the best configuration for your machine." = "本自动工具能够配置 Dreamtonics 神经网络推断引擎 (DNNI) 以达到最高性能。 DNNI 被用于加速 AI 歌声渲染。 若点击开始，本工具将执行数项测试并从中选择最适合您的设备的配置。"
   "Start Benchmark" = "开始性能测试"
   "Apply and restart Live Rendering System" = "应用并重新启动实时渲染系统"
