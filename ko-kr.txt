@@ -470,8 +470,8 @@ language: 한국어
   "Separate into Characters" = "1글자씩 구분"
 
 "Quit" = "종료"
-  "Discard unsaved changes?" = "저장되지 않은 변경사항을 파기할까요?"
-  "Discard" = "파기함"
+  "Discard unsaved changes?" = "저장하지 않고 종료할까요?"
+  "Discard" = "저장하지 않고 종료"
 
 "Copy-Paste Preference" = "복사 붙여넣기 설정"
   "Contents can be pasted at the playhead's position or pasted with an offset to retain the screen position. Please select the default pasting behavior." = "복사된 콘텐츠의 복사는 재생 시작위치에 붙여넣기와 화면상의 위치에 붙여넣기의 두 가지 패턴이 있습니다. 기본 붙여넣기 패턴을 선택하세요."
