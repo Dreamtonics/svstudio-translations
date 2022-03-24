@@ -544,8 +544,8 @@ language: 한국어
   "Failed to install update packages for _." = "_ 의 업데이트 설치를 실패했습니다."
 
 "Voice Installer" = "가수 데이터 베이스 설치 프로그램"
-  "Previous" = "뒤로 가기"
-  "Next" = "앞으로 가기"
+  "Previous" = "이전"
+  "Next" = "다음"
   "Package content is missing." = "패키지 제품을 찾을 수 없습니다."
   "Verifying data integrity..." = "데이터 인테그리티를 확인 중입니다..."
   "Data corruption detected." = "데이터가 파손되어있습니다."
