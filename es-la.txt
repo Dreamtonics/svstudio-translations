@@ -262,6 +262,8 @@ language: Español
     "English" = "Inglés"
     "Japanese" = "Japonés"
     "Mandarin Chinese" = "Mandarín"
+  "Vocal Mode" = "Estilo de Canto"
+    "Preset" = "Preestablecido"
   "Synthesis Engine" = "Motor de Síntesis"
     "Render Mode" = "Modo de Renderizado"
     "(default)" = "(predeterminado)"
