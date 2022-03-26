@@ -112,6 +112,7 @@ language: 한국어
     "Generating ornamentation..." = "노트 조정합니다..."
     "Enable Instant Mode" = "인스턴트 모드 활성화"
     "Recompute Pitch for Selected Notes" = "선택한 노트 피치 재생성"
+      "Computing pitch..." = "피치 계산하는중"
   
 "Project" = "프로젝트"
   "Tracks" = "트랙"
