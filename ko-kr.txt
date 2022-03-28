@@ -212,7 +212,12 @@ language: 한국어
   "Power" = "파워풀한"
   "Solid" = "평평한"
   "Sweet" = "달달한"
-    
+  "Soft" = "부드러운"
+  "Clear" = "맑은"
+  "Nasal" = "비음"
+  "Resonant" = "Resonant"
+  "Chest" = "Chest"
+  "Open" = "Open"
 
 "Language" = "가수 언어"
   "Sing in the following language" = "가수가 다음 언어로 노래를 부르게합니다"
@@ -755,3 +760,4 @@ language: 한국어
 "Tsuina-Chan AI" = "츠이나 쨩 AI"
 "Tsuina-Chan AI (Lite)" = "츠이나 쨩 AI (Lite)"
 "Kyomachi Seika AI" = "쿄마치 세이카 AI"
+"Kyomachi Seika" = "쿄마치 세이카"
