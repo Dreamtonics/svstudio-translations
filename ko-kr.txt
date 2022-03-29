@@ -204,7 +204,7 @@ language: 한국어
 "Vocal Mode" = "보컬 모드"
   "Preset" = " 프리셋"
     "Airy" = "테스트"
-  "Airy" = "바람"
+  "Airy" = "바람소리"
   "Bright" = "밝은"
   "Cool" = "쿨한"
   "Dark"= "어두운"
@@ -502,6 +502,9 @@ language: 한국어
 "Quit" = "종료"
   "Discard unsaved changes?" = "저장하지 않고 종료할까요?"
   "Discard" = "저장하지 않고 종료"
+
+"Auto Recovery" = "자동복구"
+  "A crashed session is found. View recovered files?" = "크래시가 발생한 세션을 찾았습니다. \n자동저장한 파일을 확인할까요?"
 
 "Project Conversion" = "프로젝트 변환"
   "Pitch deviation parameters will be modified when switched to instant mode. Are you sure to continue?" = "인스턴트 모드로 전환되면 피치 파라미터가 수정됩니다. 계속 진행하시겠습니까?"
