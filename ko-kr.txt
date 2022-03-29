@@ -410,7 +410,7 @@ language: 한국어
     "Follow playheads during playback" = "재생 시에 재생 포지션을 추적"
     "Overlap-less note resizing" = "노트 겹침 자동조정"
     "Show animated rendering status" = "렌더링 상태 애니메이션 표시"
-    "Show character image (if found)" = "캐릭터 이미지가 있을경우 표시"
+    "Show character image (if found)" = "캐릭터 이미지가 있을경우 캐릭터 이미지 표시"
     "Image Transparency" = "캐릭터 이미지 투명도"
     "Horizontal Navigation" = "수평 이동"
 	  "Mouse Wheel" = "마우스 휠"
