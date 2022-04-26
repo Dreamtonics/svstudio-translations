@@ -272,7 +272,7 @@ language: 简体中文
     "Power" = "有力 (Power)"
     "Resonant" = "洪亮 (Resonant)"
     "Soft" = "柔和 (Soft)"
-    "Solid" = "扎实 (Solid)"
+    "Solid" = "坚实 (Solid)"
     "Sweet" = "甜美 (Sweet)"
   "Synthesis Engine" = "合成引擎"
     "Render Mode" = "渲染模式"
