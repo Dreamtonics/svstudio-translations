@@ -598,6 +598,7 @@ language: 简体中文
 "_ + click to add this note to the selection; _ + click to expand the selection up to this note." = "按下 _ 单击以将该音符加入选择；按下 _ 单击以扩大选择范围至该音符。"
 "_ + click to unselect the note." = "按下 _ 单击以解除选择该音符。"
 "Click to select the note; Double click to edit lyrics; _ + drag to move vertically; _ + drag to move horizontally; _ + _ + drag to move without snapping." = "单击以选择该音符；双击以编辑歌词；按下 _ 拖拽以垂直移动；按下 _ 拖拽以水平移动；按下 _ + _ 并拖拽以不受吸附限制移动。"
+"_ + _ + drag to resize the note without snapping." = "按下 _ + _ 并拖拽以不受吸附限制调整音符大小。"
 "Double click to edit the phonemes." = "双击以编辑音素。"
 "This note belongs to the parent track. Double click to exit the current group." = "该音符直接从属于音轨。双击以退出当前音符组。"
 "This note belongs to group \"_\". Click to select the group; Double click to enter the group." = "该音符从属于音符组\"_\"。单击以选择该组；双击以进入该组。"
