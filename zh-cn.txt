@@ -269,6 +269,7 @@ language: 简体中文
     "Emotional" = "感性 (Emotional)"
     "Nasal" = "鼻腔 (Nasal)"
     "Open" = "敞开 (Open)"
+    "Opera" = "歌剧 (Opera)"
     "Power" = "力量 (Power)"
     "Resonant" = "共鸣 (Resonant)"
     "Soft" = "柔和 (Soft)"
