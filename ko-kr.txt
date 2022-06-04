@@ -203,7 +203,6 @@ language: 한국어
 
 "Vocal Mode" = "보컬 모드"
   "Preset" = " 프리셋"
-    "Airy" = "테스트"
   "Airy" = "바람소리"
   "Bright" = "밝은"
   "Cool" = "쿨한"
@@ -218,6 +217,7 @@ language: 한국어
   "Resonant" = "Resonant"
   "Chest" = "Chest"
   "Open" = "Open"
+  "Opera" = "오페라"
 
 "Language" = "가수 언어"
   "Sing in the following language" = "가수가 다음 언어로 노래를 부르게합니다"
