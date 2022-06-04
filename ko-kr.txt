@@ -722,6 +722,8 @@ language: 한국어
 "Ryo AI" = "료 AI"
 "Kevin" = "케빈"
 "Mo Chen" = "모첸"
+"An Xiao" = "안샤오"
+"Feng Yi" = "펑이"
 "SOLARIA" = "솔라리아"
 "Saki" = "사키"
 "Saki AI" = "사키 AI"
