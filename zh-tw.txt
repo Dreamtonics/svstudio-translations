@@ -626,6 +626,9 @@ language: 繁體中文
 "Double-click to edit the time signature mark." = "點兩下以編輯小節標號。"
 
 "Qing Su" = "青溯"
+"Mo Chen" = "默辰"
+"An Xiao" = "岸曉"
+"Feng Yi" = "渢漪"
 "Kotonoha Akane & Aoi" = "琴葉 茜・葵"
 "Kotonoha Akane & Aoi (Lite)" = "琴葉 茜・葵 (Lite)"
 "AiKO" = "艾可"
