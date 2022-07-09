@@ -73,7 +73,7 @@ language: Italiano
   "Simplify Parameters" = "Semplifica Parametri"
   "Create Anchor Points" = "Crea Punti di Ancoraggio"
   "Score Making" = "Score Making*"
-  "Snap to Grid" = "Aggancia alla Griglia"
+  "Snap to Grid" = "Aggancia Durata Note alla Griglia"
   "Remove Short Silences..." = "Elimina Brevi Silenzi..."
     "Remove Short Silences" = "Elimina Brevi Silenzi"
       "_ notes will be modified to close up the gaps." = "_ note verranno modificate per coprire gli spazi vuoti"
