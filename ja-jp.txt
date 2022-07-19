@@ -420,6 +420,7 @@ language: 日本語
       "Max Performance" = "高パフォーマンス"
       "Balanced" = "バランス"
       "Power Save" = "省電力"
+    "Restart Live Rendering System" = "ライブレンダリングを再起動"
   "Keyboard" = "キーボード"
       "Shortcuts" = "ショートカット"
       "(not mapped)" = "(未設定)"

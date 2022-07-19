@@ -420,6 +420,7 @@ language: 简体中文
       "Max Performance" = "最大性能"
       "Balanced" = "平衡"
       "Power Save" = "省电模式"
+    "Restart Live Rendering System" = "重新启动 LRS 渲染系统"
   "Keyboard" = "键盘"
     "Shortcuts" = "快捷键"
       "(not mapped)" = "(未分配)"
