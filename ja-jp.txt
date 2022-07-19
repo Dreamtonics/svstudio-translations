@@ -482,8 +482,8 @@ language: 日本語
   "Pattern Fill" = "自動繰り返し"
   "Separate into Characters" = "1 文字ずつ区切る"
 
-"Auto Recovery" = ""
-  "A crashed session is found. View recovered files?" = ""
+"Auto Recovery" = "自動復旧"
+  "A crashed session is found. View recovered files?" = "クラッシュしたセッションが見つかりました。復元したファイルを表示しますか？"
 
 "Quit" = "終了"
   "Discard unsaved changes?" = "保存されてない変更を破棄しますか？"
@@ -632,7 +632,7 @@ language: 日本語
 "Project loaded: _." = "プロジェクトが読み込まれました: _"
 "Project saved to _." = "プロジェクトが _ に保存されました。"
 
-"Click to toggle _ panel." = ""
+"Click to toggle _ panel." = "クリックして _ パネルを開閉します。"
 
 "Drag to create control points." = "ドラッグして制御点を作成します。"
 "Double click to create control points; Drag to select." = "ダブルクリックして制御点を作成します; ドラッグして制御点を選択します。"
@@ -645,7 +645,7 @@ language: 日本語
 "_ + click to add this note to the selection; _ + click to expand the selection up to this note." = "_ + クリックしてこのノートを選択に追加します; _ + クリックしてこのノートまで選択範囲を拡張します。"
 "_ + click to unselect the note." = "_ + クリックしてこのノートの選択を解除します。"
 "Click to select the note; Double click to edit lyrics; _ + drag to move vertically; _ + drag to move horizontally; _ + _ + drag to move without snapping." = "クリックしてこのノートを選択します; ダブルクリックして歌詞を編集します; _ + ドラッグして垂直に移動します; _ + ドラッグして水平に移動します; _ + _ + ドラッグしてスナップせずに移動します。"
-"_ + _ + drag to resize the note without snapping." = ""
+"_ + _ + drag to resize the note without snapping." = "_ + _ + ドラッグして、スナップせずにノートのサイズを変更します。"
 "Double click to edit the phonemes." = "ダブルクリックして音素を編集します。"
 "This note belongs to the parent track. Double click to exit the current group." = "このノートは直接、トラックに属しています。ダブルクリックして現在のノートグループから退出します。"
 "This note belongs to group \"_\". Click to select the group; Double click to enter the group." = "このノートはノートグループ\"_\"に属しています。クリックしてこのノートグループを選択します; ダブルクリックしてこのノートグループに入ります。"
