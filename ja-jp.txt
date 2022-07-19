@@ -283,7 +283,7 @@ language: 日本語
     "Group: _" = "グループ: _"
     "Default Take" = "デフォルトテイク"
     "Take _" = "テイク _"
-    "Global Settings" = "グローバル設定"
+    "Global Settings" = "全体設定"
     "Expressiveness" = "表現力"
 
 "Library" = "ライブラリ"
@@ -481,6 +481,9 @@ language: 日本語
   "Pattern Fill" = "自動繰り返し"
   "Separate into Characters" = "1 文字ずつ区切る"
 
+"Auto Recovery" = ""
+  "A crashed session is found. View recovered files?" = ""
+
 "Quit" = "終了"
   "Discard unsaved changes?" = "保存されてない変更を破棄しますか？"
   "Discard" = "破棄"
@@ -508,6 +511,7 @@ language: 日本語
 "Show third party licenses." = "第三者ライセンスについて。"
 
 "Neural Networks Performance Tuner..." = "ニューラルネットワークチューナー..."
+  "Neural Networks Performance Tuner" = "ニューラルネットワークチューナー"
   "This is a fully automated tool that tunes the Dreamtonics Neural Network Inference (DNNI) engine for maximum performance. DNNI is used to accelerate AI voice rendering. By pressing start, it will run a few benchmarks and pick the best configuration for your machine." = "Dreamtonics ニューラルネットワーク推論エンジン (DNNI) のパフォーマンスを最大化するための完全自動チューニングツールです。\nDNNI は、AI 歌声レンダリングを高速化するために使用されています。\nベンチマークを実行し、あなたのマシンに最適な設定を選択します。"
   "Start Benchmark" = "ベンチマーク開始"
   "Apply and restart Live Rendering System" = "設定を適用しライブレンダリングを再起動"
@@ -627,6 +631,8 @@ language: 日本語
 "Project loaded: _." = "プロジェクトが読み込まれました: _"
 "Project saved to _." = "プロジェクトが _ に保存されました。"
 
+"Click to toggle _ panel." = ""
+
 "Drag to create control points." = "ドラッグして制御点を作成します。"
 "Double click to create control points; Drag to select." = "ダブルクリックして制御点を作成します; ドラッグして制御点を選択します。"
 "Drag to create a note." = "ドラッグしてノートを作成します。"
@@ -638,6 +644,7 @@ language: 日本語
 "_ + click to add this note to the selection; _ + click to expand the selection up to this note." = "_ + クリックしてこのノートを選択に追加します; _ + クリックしてこのノートまで選択範囲を拡張します。"
 "_ + click to unselect the note." = "_ + クリックしてこのノートの選択を解除します。"
 "Click to select the note; Double click to edit lyrics; _ + drag to move vertically; _ + drag to move horizontally; _ + _ + drag to move without snapping." = "クリックしてこのノートを選択します; ダブルクリックして歌詞を編集します; _ + ドラッグして垂直に移動します; _ + ドラッグして水平に移動します; _ + _ + ドラッグしてスナップせずに移動します。"
+"_ + _ + drag to resize the note without snapping." = ""
 "Double click to edit the phonemes." = "ダブルクリックして音素を編集します。"
 "This note belongs to the parent track. Double click to exit the current group." = "このノートは直接、トラックに属しています。ダブルクリックして現在のノートグループから退出します。"
 "This note belongs to group \"_\". Click to select the group; Double click to enter the group." = "このノートはノートグループ\"_\"に属しています。クリックしてこのノートグループを選択します; ダブルクリックしてこのノートグループに入ります。"
@@ -750,6 +757,8 @@ language: 日本語
 "Tsuina-Chan AI" = "ついなちゃん AI"
 "Tsuina-Chan AI (Lite)" = "ついなちゃん AI (ライト)"
 "Kyomachi Seika" = "京町セイカ"
+"Kyomachi Seika (Lite)" = "京町セイカ (Lite)"
 "Kyomachi Seika AI" = "京町セイカ AI"
+"Kyomachi Seika AI (Lite)" = "京町セイカ AI (Lite)"
 "ANRI" = "杏里"
 "ANRI (Lite)" = "杏里 (Lite)"
