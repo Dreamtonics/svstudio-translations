@@ -274,7 +274,7 @@ language: 日本語
   "Timbre" = "声色"
   "For pitch editing, AI Retakes are only available under Instant Mode." = "ピッチのAIリテイクを利用するには、 簡易ピッチモードを有効にする 必要があります。"
   "No content is selected. Display global settings that apply to all the notes." = "コンテンツが選択されていません。 すべてのノートに適用される、 グローバル設定を表示します。"
-  "For timbre editing, AI Retakes are only available for AI voices with HDVM support." = "声色のAIリテイクは、HDVMを サポートしたAI歌声データベース でのみ使用できます。"
+  "For timbre editing, AI Retakes are only available for AI voices with HDVM support." = "声色のAIリテイクをサポートしたAI歌声データベースでのみ使用できます。"
   "Enter Instant Mode" = "簡易ピッチモードを有効化"
   "Generate Take" = "テイクを生成"
   "Takes" = "テイク"
