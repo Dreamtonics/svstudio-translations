@@ -55,6 +55,7 @@ language: 简体中文
   "Show Melody from Other Tracks" = "显示其他音轨的旋律"
   "Side Panels" = "侧面板"
   "Note Properties Panel" = "音符属性面板"
+  "AI Retakes Panel" = "AI 重录面板"
   "Voice Panel" = "歌声面板"
   "Library Panel" = "音符组库面板"
   "Dictionary Panel" = "词典面板"

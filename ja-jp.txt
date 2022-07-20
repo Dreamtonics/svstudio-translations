@@ -55,6 +55,7 @@ language: 日本語
   "Show Melody from Other Tracks" = "他トラックのノートを表示"
   "Side Panels" = "サイドパネル"
   "Note Properties Panel" = "ノートプロパティパネル"
+  "AI Retakes Panel" = "AI リテイクパネル"
   "Voice Panel" = "歌声パネル"
   "Library Panel" = "ライブラリパネル"
   "Dictionary Panel" = "辞書パネル"
