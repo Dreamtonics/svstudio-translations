@@ -609,6 +609,7 @@ language: 简体中文
   "The destination needs to be a valid directory." = "目标应当为一个合理的文件夹。"
   "_ (ver. _) has been successfully installed." = "成功安装 _ (ver. _)。"
   "Installation was aborted due to an error:" = "由于发生了错误，安装被中止："
+  "Terminating rendering tasks in progress..." = "终止正在进行的渲染任务..."
 
 "Voice Update" = "声库更新"
   "Updating _..." = "正在更新 _..."

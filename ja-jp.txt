@@ -610,6 +610,7 @@ language: 日本語
   "The destination needs to be a valid directory." = "有効なフォルダを指定する必要があります。"
   "_ (ver. _) has been successfully installed." = "_ (ver. _) のインストールに成功しました。"
   "Installation was aborted due to an error:" = "下記のエラーが発生したため、インストールは中止されました："
+  "Terminating rendering tasks in progress..." = "進行中のレンダリングを終了しています..."
 
 "Voice Update" = "歌声データベースのアップデート"
   "Updating _..." = " _をアップデートしています..."
