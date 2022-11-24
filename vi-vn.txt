@@ -769,6 +769,8 @@ language: Tiếng Việt
 "Mo Chen" = "Mặc Thần"
 "An Xiao" = "Ngạn Hiểu"
 "Feng Yi" = "Phong Y"
+"Xuan Yu" = "Huyên Vũ"
+"Cong Zheng" = "Tùng Tranh"
 "MEDIUM5·Chiyu" = "MEDIUM5·Xích Vũ"
 "MEDIUM5·Chiyu (Lite)" = "MEDIUM5·Xích Vũ (Lite)"
 "MEDIUM5·Cangqiong" = "MEDIUM5·Thương Khung"
