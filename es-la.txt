@@ -47,7 +47,7 @@ language: Español
     "1/64 Quarter" = "Ritmo a 1/64"
     "1/128 Quarter" = "Ritmo a 1/128"
     "Do Not Snap" = "Sin Ajuste de Ritmo"
-    "Adaptive Snapping" = "Ajuste de Ritmo Adaptable"
+    "Adaptive" = "Ajuste de Ritmo Adaptable"
   "Multi-edit Tool" = "Herramienta de Edición Múltiple"
   "Pencil Tool" = "Lápiz"
   "Line Tool (Parameters)" = "Línea (Parámetros)"
