@@ -99,7 +99,7 @@ language: Español
   "Pitch" = "Tono"
     "Auto Pitch Tuning..." = "Afinación Automática..."
     "Auto Pitch Tuning" = "Afinación Automática"
-    "Auto Pitch Tuning (Customized Style)" = "Afinación Automática (Estilo Personalizado)"
+    "Auto Pitch Tuning (Customized Style)..." = "Afinación Automática (Estilo Personalizado)..."
       "Improvisation" = "Improvisación"
       "Random Seed" = "Semilla Aleatoria"
       "Enable Pitch Correction" = "Permitir Corrección de Tono"
