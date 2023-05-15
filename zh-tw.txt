@@ -626,8 +626,8 @@ language: 繁體中文
 "Double-click to edit the time signature mark." = "點兩下以編輯小節標號。"
 
 "Qing Su" = "青溯"
-"Kotonoha Akane & Aoi" = "琴葉　茜・葵"
-"Kotonoha Akane & Aoi (Lite)" = "琴葉　茜・葵 (Lite)"
+"Kotonoha Akane & Aoi" = "琴葉 茜・葵"
+"Kotonoha Akane & Aoi (Lite)" = "琴葉 茜・葵 (Lite)"
 "AiKO" = "艾可"
 "AiKO (Lite)" = "艾可 (Lite)"
 "Eleanor Forte" = "愛蓮娜 芙緹"
@@ -667,3 +667,5 @@ language: 繁體中文
 "Tsuina-Chan (Lite)" = "追儺醬 (Lite)"
 "Tsuina-Chan AI" = "追儺醬 AI"
 "Tsuina-Chan AI (Lite)" = "追儺醬 AI (Lite)"
+"ANRI" = "安里"
+"ANRI (Lite)" = "安里 (Lite)"
