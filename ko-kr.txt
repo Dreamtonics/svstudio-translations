@@ -815,3 +815,5 @@ language: 한국어
 "Kyomachi Seika AI (Lite)" = "쿄마치 세이카 AI (Lite)"
 "ANRI" = "안리"
 "ANRI (Lite)" = "안리 (Lite)"
+"Kasane Teto" = "카사네 테토"
+"Kasane Teto (Lite)" = "카사네 테토 (Lite)"
